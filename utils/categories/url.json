@@ -1,0 +1,3592 @@
+{
+    "diet": [
+        {
+            "name": "減重飲食：低醣飲食（阿金飲食）",
+            "url": "https://kb.commonhealth.com.tw/library/300.html"
+        },
+        {
+            "name": "減重飲食：低卡飲食、低熱量飲食（LCD）",
+            "url": "https://kb.commonhealth.com.tw/library/301.html"
+        },
+        {
+            "name": "減重飲食：極低卡飲食、極低熱量飲食（VLCD）",
+            "url": "https://kb.commonhealth.com.tw/library/302.html"
+        },
+        {
+            "name": "減重飲食：極低脂飲食",
+            "url": "https://kb.commonhealth.com.tw/library/303.html"
+        },
+        {
+            "name": "腎臟病飲食：減磷飲食",
+            "url": "https://kb.commonhealth.com.tw/library/304.html"
+        },
+        {
+            "name": "高血壓飲食：限鈉飲食、低鈉飲食",
+            "url": "https://kb.commonhealth.com.tw/library/305.html"
+        },
+        {
+            "name": "高血壓飲食：飲食少油",
+            "url": "https://kb.commonhealth.com.tw/library/306.html"
+        },
+        {
+            "name": "高血壓飲食：飲食少鹽",
+            "url": "https://kb.commonhealth.com.tw/library/307.html"
+        },
+        {
+            "name": "得舒飲食（DASH飲食計畫）",
+            "url": "https://kb.commonhealth.com.tw/library/308.html"
+        },
+        {
+            "name": "高血壓飲食：飲食多蔬果",
+            "url": "https://kb.commonhealth.com.tw/library/309.html"
+        },
+        {
+            "name": "高血壓飲食：飲食少加工食品",
+            "url": "https://kb.commonhealth.com.tw/library/310.html"
+        },
+        {
+            "name": "高血壓飲食：飲食多高纖食物",
+            "url": "https://kb.commonhealth.com.tw/library/324.html"
+        }
+    ],
+    "sport": [
+        {
+            "name": "直排輪",
+            "url": "https://kb.commonhealth.com.tw/library/319.html"
+        },
+        {
+            "name": "日常微運動：平常辦公",
+            "url": "https://kb.commonhealth.com.tw/library/320.html"
+        },
+        {
+            "name": "日常微運動：洗碗",
+            "url": "https://kb.commonhealth.com.tw/library/321.html"
+        },
+        {
+            "name": "羽毛球",
+            "url": "https://kb.commonhealth.com.tw/library/322.html"
+        },
+        {
+            "name": "籃球",
+            "url": "https://kb.commonhealth.com.tw/library/323.html"
+        },
+        {
+            "name": "日常微運動：家庭園藝",
+            "url": "https://kb.commonhealth.com.tw/library/326.html"
+        },
+        {
+            "name": "日常微運動：煮飯",
+            "url": "https://kb.commonhealth.com.tw/library/327.html"
+        },
+        {
+            "name": "日常微運動：開車",
+            "url": "https://kb.commonhealth.com.tw/library/328.html"
+        }
+    ],
+    "url": [
+        {
+            "name": "B型肝炎",
+            "url": "https://kb.commonhealth.com.tw/library/1.html"
+        },
+        {
+            "name": "C型肝炎",
+            "url": "https://kb.commonhealth.com.tw/library/2.html"
+        },
+        {
+            "name": "三陰性乳癌",
+            "url": "https://kb.commonhealth.com.tw/library/3.html"
+        },
+        {
+            "name": "乳癌",
+            "url": "https://kb.commonhealth.com.tw/library/4.html"
+        },
+        {
+            "name": "二尖瓣脫垂",
+            "url": "https://kb.commonhealth.com.tw/library/5.html"
+        },
+        {
+            "name": "低血壓",
+            "url": "https://kb.commonhealth.com.tw/library/6.html"
+        },
+        {
+            "name": "冠狀動脈心臟病",
+            "url": "https://kb.commonhealth.com.tw/library/7.html"
+        },
+        {
+            "name": "出血性腦中風",
+            "url": "https://kb.commonhealth.com.tw/library/8.html"
+        },
+        {
+            "name": "十二指腸潰瘍",
+            "url": "https://kb.commonhealth.com.tw/library/9.html"
+        },
+        {
+            "name": "口腔癌",
+            "url": "https://kb.commonhealth.com.tw/library/10.html"
+        },
+        {
+            "name": "多囊性腎病",
+            "url": "https://kb.commonhealth.com.tw/library/11.html"
+        },
+        {
+            "name": "大腸憩室炎",
+            "url": "https://kb.commonhealth.com.tw/library/12.html"
+        },
+        {
+            "name": "大腸激躁症",
+            "url": "https://kb.commonhealth.com.tw/library/13.html"
+        },
+        {
+            "name": "大腸癌",
+            "url": "https://kb.commonhealth.com.tw/library/14.html"
+        },
+        {
+            "name": "子宮內膜癌",
+            "url": "https://kb.commonhealth.com.tw/library/15.html"
+        },
+        {
+            "name": "子宮頸癌",
+            "url": "https://kb.commonhealth.com.tw/library/16.html"
+        },
+        {
+            "name": "小細胞肺癌",
+            "url": "https://kb.commonhealth.com.tw/library/17.html"
+        },
+        {
+            "name": "尿路結石",
+            "url": "https://kb.commonhealth.com.tw/library/18.html"
+        },
+        {
+            "name": "心律不整",
+            "url": "https://kb.commonhealth.com.tw/library/19.html"
+        },
+        {
+            "name": "心悸",
+            "url": "https://kb.commonhealth.com.tw/library/20.html"
+        },
+        {
+            "name": "心房顫動",
+            "url": "https://kb.commonhealth.com.tw/library/21.html"
+        },
+        {
+            "name": "心肌梗塞",
+            "url": "https://kb.commonhealth.com.tw/library/22.html"
+        },
+        {
+            "name": "心臟衰竭",
+            "url": "https://kb.commonhealth.com.tw/library/23.html"
+        },
+        {
+            "name": "心血管疾病",
+            "url": "https://kb.commonhealth.com.tw/library/24.html"
+        },
+        {
+            "name": "急性白血病",
+            "url": "https://kb.commonhealth.com.tw/library/25.html"
+        },
+        {
+            "name": "攝護腺癌",
+            "url": "https://kb.commonhealth.com.tw/library/26.html"
+        },
+        {
+            "name": "氣喘",
+            "url": "https://kb.commonhealth.com.tw/library/27.html"
+        },
+        {
+            "name": "猛爆性肝炎",
+            "url": "https://kb.commonhealth.com.tw/library/28.html"
+        },
+        {
+            "name": "白血病",
+            "url": "https://kb.commonhealth.com.tw/library/29.html"
+        },
+        {
+            "name": "糖尿病",
+            "url": "https://kb.commonhealth.com.tw/library/30.html"
+        },
+        {
+            "name": "肋膜積水",
+            "url": "https://kb.commonhealth.com.tw/library/31.html"
+        },
+        {
+            "name": "肝囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/32.html"
+        },
+        {
+            "name": "肝癌",
+            "url": "https://kb.commonhealth.com.tw/library/33.html"
+        },
+        {
+            "name": "肝硬化",
+            "url": "https://kb.commonhealth.com.tw/library/34.html"
+        },
+        {
+            "name": "肝細胞癌",
+            "url": "https://kb.commonhealth.com.tw/library/35.html"
+        },
+        {
+            "name": "肺炎",
+            "url": "https://kb.commonhealth.com.tw/library/36.html"
+        },
+        {
+            "name": "肺癌",
+            "url": "https://kb.commonhealth.com.tw/library/37.html"
+        },
+        {
+            "name": "肺腺癌",
+            "url": "https://kb.commonhealth.com.tw/library/38.html"
+        },
+        {
+            "name": "胃癌",
+            "url": "https://kb.commonhealth.com.tw/library/39.html"
+        },
+        {
+            "name": "胃食道逆流",
+            "url": "https://kb.commonhealth.com.tw/library/40.html"
+        },
+        {
+            "name": "胰臟癌",
+            "url": "https://kb.commonhealth.com.tw/library/41.html"
+        },
+        {
+            "name": "腦瘤",
+            "url": "https://kb.commonhealth.com.tw/library/42.html"
+        },
+        {
+            "name": "腸阻塞",
+            "url": "https://kb.commonhealth.com.tw/library/43.html"
+        },
+        {
+            "name": "膽結石",
+            "url": "https://kb.commonhealth.com.tw/library/44.html"
+        },
+        {
+            "name": "非何杰金氏淋巴瘤",
+            "url": "https://kb.commonhealth.com.tw/library/45.html"
+        },
+        {
+            "name": "食道癌",
+            "url": "https://kb.commonhealth.com.tw/library/46.html"
+        },
+        {
+            "name": "高血壓",
+            "url": "https://kb.commonhealth.com.tw/library/47.html"
+        },
+        {
+            "name": "高血脂",
+            "url": "https://kb.commonhealth.com.tw/library/48.html"
+        },
+        {
+            "name": "鱗狀上皮細胞肺癌",
+            "url": "https://kb.commonhealth.com.tw/library/49.html"
+        },
+        {
+            "name": "鼻咽癌",
+            "url": "https://kb.commonhealth.com.tw/library/50.html"
+        },
+        {
+            "name": "陰道分泌物變多",
+            "url": "https://kb.commonhealth.com.tw/library/51.html"
+        },
+        {
+            "name": "半月板破裂",
+            "url": "https://kb.commonhealth.com.tw/library/52.html"
+        },
+        {
+            "name": "卵巢囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/53.html"
+        },
+        {
+            "name": "卵巢癌",
+            "url": "https://kb.commonhealth.com.tw/library/54.html"
+        },
+        {
+            "name": "多囊性卵巢症候群",
+            "url": "https://kb.commonhealth.com.tw/library/55.html"
+        },
+        {
+            "name": "子宮內膜異位症",
+            "url": "https://kb.commonhealth.com.tw/library/56.html"
+        },
+        {
+            "name": "子宮肌瘤",
+            "url": "https://kb.commonhealth.com.tw/library/57.html"
+        },
+        {
+            "name": "菜花",
+            "url": "https://kb.commonhealth.com.tw/library/58.html"
+        },
+        {
+            "name": "幽門螺旋桿菌感染",
+            "url": "https://kb.commonhealth.com.tw/library/59.html"
+        },
+        {
+            "name": "咳嗽：急性咳嗽",
+            "url": "https://kb.commonhealth.com.tw/library/60.html"
+        },
+        {
+            "name": "急性腎損傷",
+            "url": "https://kb.commonhealth.com.tw/library/61.html"
+        },
+        {
+            "name": "性早熟",
+            "url": "https://kb.commonhealth.com.tw/library/62.html"
+        },
+        {
+            "name": "披衣菌性病",
+            "url": "https://kb.commonhealth.com.tw/library/63.html"
+        },
+        {
+            "name": "女性更年期",
+            "url": "https://kb.commonhealth.com.tw/library/64.html"
+        },
+        {
+            "name": "月經不規則",
+            "url": "https://kb.commonhealth.com.tw/library/65.html"
+        },
+        {
+            "name": "尿毒症",
+            "url": "https://kb.commonhealth.com.tw/library/66.html"
+        },
+        {
+            "name": "泌尿道感染",
+            "url": "https://kb.commonhealth.com.tw/library/67.html"
+        },
+        {
+            "name": "流行性感冒",
+            "url": "https://kb.commonhealth.com.tw/library/68.html"
+        },
+        {
+            "name": "心絞痛",
+            "url": "https://kb.commonhealth.com.tw/library/69.html"
+        },
+        {
+            "name": "肚子痛",
+            "url": "https://kb.commonhealth.com.tw/library/70.html"
+        },
+        {
+            "name": "肝血管瘤",
+            "url": "https://kb.commonhealth.com.tw/library/71.html"
+        },
+        {
+            "name": "旋轉肌袖症候群",
+            "url": "https://kb.commonhealth.com.tw/library/72.html"
+        },
+        {
+            "name": "肺結核",
+            "url": "https://kb.commonhealth.com.tw/library/73.html"
+        },
+        {
+            "name": "肺纖維化",
+            "url": "https://kb.commonhealth.com.tw/library/74.html"
+        },
+        {
+            "name": "胃潰瘍",
+            "url": "https://kb.commonhealth.com.tw/library/75.html"
+        },
+        {
+            "name": "胃炎",
+            "url": "https://kb.commonhealth.com.tw/library/76.html"
+        },
+        {
+            "name": "胃痛",
+            "url": "https://kb.commonhealth.com.tw/library/77.html"
+        },
+        {
+            "name": "藥物性食道炎",
+            "url": "https://kb.commonhealth.com.tw/library/78.html"
+        },
+        {
+            "name": "血尿",
+            "url": "https://kb.commonhealth.com.tw/library/79.html"
+        },
+        {
+            "name": "足底筋膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/80.html"
+        },
+        {
+            "name": "非經期出血",
+            "url": "https://kb.commonhealth.com.tw/library/81.html"
+        },
+        {
+            "name": "肺水腫",
+            "url": "https://kb.commonhealth.com.tw/library/82.html"
+        },
+        {
+            "name": "胰臟炎",
+            "url": "https://kb.commonhealth.com.tw/library/83.html"
+        },
+        {
+            "name": "腸沾黏",
+            "url": "https://kb.commonhealth.com.tw/library/84.html"
+        },
+        {
+            "name": "脂肪肝",
+            "url": "https://kb.commonhealth.com.tw/library/85.html"
+        },
+        {
+            "name": "眼中風",
+            "url": "https://kb.commonhealth.com.tw/library/86.html"
+        },
+        {
+            "name": "大腸瘜肉",
+            "url": "https://kb.commonhealth.com.tw/library/87.html"
+        },
+        {
+            "name": "視網膜剝離",
+            "url": "https://kb.commonhealth.com.tw/library/88.html"
+        },
+        {
+            "name": "慢性咳嗽",
+            "url": "https://kb.commonhealth.com.tw/library/89.html"
+        },
+        {
+            "name": "類流感",
+            "url": "https://kb.commonhealth.com.tw/library/90.html"
+        },
+        {
+            "name": "老花眼",
+            "url": "https://kb.commonhealth.com.tw/library/91.html"
+        },
+        {
+            "name": "假性近視",
+            "url": "https://kb.commonhealth.com.tw/library/92.html"
+        },
+        {
+            "name": "黃疸",
+            "url": "https://kb.commonhealth.com.tw/library/93.html"
+        },
+        {
+            "name": "過敏性結膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/94.html"
+        },
+        {
+            "name": "高三酸甘油酯",
+            "url": "https://kb.commonhealth.com.tw/library/95.html"
+        },
+        {
+            "name": "高膽固醇",
+            "url": "https://kb.commonhealth.com.tw/library/96.html"
+        },
+        {
+            "name": "一般感冒",
+            "url": "https://kb.commonhealth.com.tw/library/97.html"
+        },
+        {
+            "name": "乾眼症",
+            "url": "https://kb.commonhealth.com.tw/library/98.html"
+        },
+        {
+            "name": "肝衰竭",
+            "url": "https://kb.commonhealth.com.tw/library/99.html"
+        },
+        {
+            "name": "飛蚊症",
+            "url": "https://kb.commonhealth.com.tw/library/100.html"
+        },
+        {
+            "name": "兒童弱視",
+            "url": "https://kb.commonhealth.com.tw/library/101.html"
+        },
+        {
+            "name": "敗血症",
+            "url": "https://kb.commonhealth.com.tw/library/102.html"
+        },
+        {
+            "name": "白內障",
+            "url": "https://kb.commonhealth.com.tw/library/103.html"
+        },
+        {
+            "name": "針眼",
+            "url": "https://kb.commonhealth.com.tw/library/104.html"
+        },
+        {
+            "name": "青光眼",
+            "url": "https://kb.commonhealth.com.tw/library/105.html"
+        },
+        {
+            "name": "黃斑部病變",
+            "url": "https://kb.commonhealth.com.tw/library/106.html"
+        },
+        {
+            "name": "子宮脫垂",
+            "url": "https://kb.commonhealth.com.tw/library/107.html"
+        },
+        {
+            "name": "子宮肌腺症",
+            "url": "https://kb.commonhealth.com.tw/library/108.html"
+        },
+        {
+            "name": "痛風腎病變",
+            "url": "https://kb.commonhealth.com.tw/library/109.html"
+        },
+        {
+            "name": "腎臟異位瘤",
+            "url": "https://kb.commonhealth.com.tw/library/110.html"
+        },
+        {
+            "name": "腎囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/111.html"
+        },
+        {
+            "name": "腎臟癌",
+            "url": "https://kb.commonhealth.com.tw/library/112.html"
+        },
+        {
+            "name": "落枕",
+            "url": "https://kb.commonhealth.com.tw/library/113.html"
+        },
+        {
+            "name": "小便疼痛",
+            "url": "https://kb.commonhealth.com.tw/library/114.html"
+        },
+        {
+            "name": "間質性腎炎",
+            "url": "https://kb.commonhealth.com.tw/library/115.html"
+        },
+        {
+            "name": "間質性膀胱炎",
+            "url": "https://kb.commonhealth.com.tw/library/116.html"
+        },
+        {
+            "name": "高血壓腎病變",
+            "url": "https://kb.commonhealth.com.tw/library/117.html"
+        },
+        {
+            "name": "手麻或腳麻",
+            "url": "https://kb.commonhealth.com.tw/library/118.html"
+        },
+        {
+            "name": "手抖或腳抖",
+            "url": "https://kb.commonhealth.com.tw/library/119.html"
+        },
+        {
+            "name": "類風濕性關節炎",
+            "url": "https://kb.commonhealth.com.tw/library/120.html"
+        },
+        {
+            "name": "頸椎退化性關節炎",
+            "url": "https://kb.commonhealth.com.tw/library/121.html"
+        },
+        {
+            "name": "肌筋膜疼痛症候群",
+            "url": "https://kb.commonhealth.com.tw/library/122.html"
+        },
+        {
+            "name": "骨質疏鬆症",
+            "url": "https://kb.commonhealth.com.tw/library/123.html"
+        },
+        {
+            "name": "鈣化性肌腱炎",
+            "url": "https://kb.commonhealth.com.tw/library/124.html"
+        },
+        {
+            "name": "脊椎壓迫性骨折",
+            "url": "https://kb.commonhealth.com.tw/library/125.html"
+        },
+        {
+            "name": "髕骨軟骨軟化症",
+            "url": "https://kb.commonhealth.com.tw/library/126.html"
+        },
+        {
+            "name": "脊髓小腦萎縮症",
+            "url": "https://kb.commonhealth.com.tw/library/127.html"
+        },
+        {
+            "name": "生殖器疱疹",
+            "url": "https://kb.commonhealth.com.tw/library/128.html"
+        },
+        {
+            "name": "缺血性腦中風",
+            "url": "https://kb.commonhealth.com.tw/library/129.html"
+        },
+        {
+            "name": "記憶力變差",
+            "url": "https://kb.commonhealth.com.tw/library/130.html"
+        },
+        {
+            "name": "昏倒",
+            "url": "https://kb.commonhealth.com.tw/library/131.html"
+        },
+        {
+            "name": "骨盆腔炎",
+            "url": "https://kb.commonhealth.com.tw/library/132.html"
+        },
+        {
+            "name": "骨刺",
+            "url": "https://kb.commonhealth.com.tw/library/133.html"
+        },
+        {
+            "name": "非特異性頭暈",
+            "url": "https://kb.commonhealth.com.tw/library/134.html"
+        },
+        {
+            "name": "動脈瘤",
+            "url": "https://kb.commonhealth.com.tw/library/135.html"
+        },
+        {
+            "name": "腦動靜脈畸形",
+            "url": "https://kb.commonhealth.com.tw/library/136.html"
+        },
+        {
+            "name": "帶狀疱疹",
+            "url": "https://kb.commonhealth.com.tw/library/137.html"
+        },
+        {
+            "name": "嘴破",
+            "url": "https://kb.commonhealth.com.tw/library/138.html"
+        },
+        {
+            "name": "蛀牙",
+            "url": "https://kb.commonhealth.com.tw/library/139.html"
+        },
+        {
+            "name": "植體周圍炎",
+            "url": "https://kb.commonhealth.com.tw/library/140.html"
+        },
+        {
+            "name": "暈眩",
+            "url": "https://kb.commonhealth.com.tw/library/141.html"
+        },
+        {
+            "name": "外陰搔癢",
+            "url": "https://kb.commonhealth.com.tw/library/142.html"
+        },
+        {
+            "name": "顏面神經麻痺",
+            "url": "https://kb.commonhealth.com.tw/library/143.html"
+        },
+        {
+            "name": "牙周炎",
+            "url": "https://kb.commonhealth.com.tw/library/144.html"
+        },
+        {
+            "name": "牙周病",
+            "url": "https://kb.commonhealth.com.tw/library/145.html"
+        },
+        {
+            "name": "牙髓炎",
+            "url": "https://kb.commonhealth.com.tw/library/146.html"
+        },
+        {
+            "name": "牙齦炎",
+            "url": "https://kb.commonhealth.com.tw/library/147.html"
+        },
+        {
+            "name": "幼童誤食異物",
+            "url": "https://kb.commonhealth.com.tw/library/148.html"
+        },
+        {
+            "name": "異物卡進耳道",
+            "url": "https://kb.commonhealth.com.tw/library/149.html"
+        },
+        {
+            "name": "牙齦紅腫",
+            "url": "https://kb.commonhealth.com.tw/library/150.html"
+        },
+        {
+            "name": "牙痛",
+            "url": "https://kb.commonhealth.com.tw/library/151.html"
+        },
+        {
+            "name": "敏感性牙齒",
+            "url": "https://kb.commonhealth.com.tw/library/152.html"
+        },
+        {
+            "name": "嗅覺異常",
+            "url": "https://kb.commonhealth.com.tw/library/153.html"
+        },
+        {
+            "name": "小唾液腺囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/154.html"
+        },
+        {
+            "name": "先天性聽力障礙",
+            "url": "https://kb.commonhealth.com.tw/library/155.html"
+        },
+        {
+            "name": "唾液腺結石",
+            "url": "https://kb.commonhealth.com.tw/library/156.html"
+        },
+        {
+            "name": "耳中風",
+            "url": "https://kb.commonhealth.com.tw/library/157.html"
+        },
+        {
+            "name": "頭暈",
+            "url": "https://kb.commonhealth.com.tw/library/158.html"
+        },
+        {
+            "name": "頭痛",
+            "url": "https://kb.commonhealth.com.tw/library/159.html"
+        },
+        {
+            "name": "頭部外傷",
+            "url": "https://kb.commonhealth.com.tw/library/160.html"
+        },
+        {
+            "name": "糖尿病腎病變",
+            "url": "https://kb.commonhealth.com.tw/library/161.html"
+        },
+        {
+            "name": "睡眠呼吸中止症",
+            "url": "https://kb.commonhealth.com.tw/library/162.html"
+        },
+        {
+            "name": "失智症",
+            "url": "https://kb.commonhealth.com.tw/library/163.html"
+        },
+        {
+            "name": "聲音沙啞",
+            "url": "https://kb.commonhealth.com.tw/library/164.html"
+        },
+        {
+            "name": "聲帶結節",
+            "url": "https://kb.commonhealth.com.tw/library/165.html"
+        },
+        {
+            "name": "聲帶瘜肉",
+            "url": "https://kb.commonhealth.com.tw/library/166.html"
+        },
+        {
+            "name": "聲帶麻痺",
+            "url": "https://kb.commonhealth.com.tw/library/167.html"
+        },
+        {
+            "name": "三叉神經痛",
+            "url": "https://kb.commonhealth.com.tw/library/168.html"
+        },
+        {
+            "name": "平衡感變差",
+            "url": "https://kb.commonhealth.com.tw/library/169.html"
+        },
+        {
+            "name": "頻尿",
+            "url": "https://kb.commonhealth.com.tw/library/170.html"
+        },
+        {
+            "name": "疱疹性齦口炎",
+            "url": "https://kb.commonhealth.com.tw/library/171.html"
+        },
+        {
+            "name": "顳顎關節症候群",
+            "url": "https://kb.commonhealth.com.tw/library/172.html"
+        },
+        {
+            "name": "黏膜白斑症",
+            "url": "https://kb.commonhealth.com.tw/library/173.html"
+        },
+        {
+            "name": "腦炎",
+            "url": "https://kb.commonhealth.com.tw/library/174.html"
+        },
+        {
+            "name": "睡眠磨牙症",
+            "url": "https://kb.commonhealth.com.tw/library/175.html"
+        },
+        {
+            "name": "梅毒",
+            "url": "https://kb.commonhealth.com.tw/library/176.html"
+        },
+        {
+            "name": "慢性咽喉炎",
+            "url": "https://kb.commonhealth.com.tw/library/177.html"
+        },
+        {
+            "name": "慢性腎臟病",
+            "url": "https://kb.commonhealth.com.tw/library/178.html"
+        },
+        {
+            "name": "慢性腎絲球腎炎",
+            "url": "https://kb.commonhealth.com.tw/library/179.html"
+        },
+        {
+            "name": "流鼻血",
+            "url": "https://kb.commonhealth.com.tw/library/180.html"
+        },
+        {
+            "name": "淋病",
+            "url": "https://kb.commonhealth.com.tw/library/181.html"
+        },
+        {
+            "name": "口瘡",
+            "url": "https://kb.commonhealth.com.tw/library/182.html"
+        },
+        {
+            "name": "中耳炎",
+            "url": "https://kb.commonhealth.com.tw/library/183.html"
+        },
+        {
+            "name": "口角炎",
+            "url": "https://kb.commonhealth.com.tw/library/184.html"
+        },
+        {
+            "name": "何杰金氏淋巴瘤",
+            "url": "https://kb.commonhealth.com.tw/library/185.html"
+        },
+        {
+            "name": "小兒中耳積水",
+            "url": "https://kb.commonhealth.com.tw/library/186.html"
+        },
+        {
+            "name": "哮吼",
+            "url": "https://kb.commonhealth.com.tw/library/187.html"
+        },
+        {
+            "name": "腺樣體肥大",
+            "url": "https://kb.commonhealth.com.tw/library/188.html"
+        },
+        {
+            "name": "臭鼻症",
+            "url": "https://kb.commonhealth.com.tw/library/189.html"
+        },
+        {
+            "name": "外耳炎",
+            "url": "https://kb.commonhealth.com.tw/library/190.html"
+        },
+        {
+            "name": "深頸部感染",
+            "url": "https://kb.commonhealth.com.tw/library/191.html"
+        },
+        {
+            "name": "腮腺炎",
+            "url": "https://kb.commonhealth.com.tw/library/192.html"
+        },
+        {
+            "name": "耳氣壓傷",
+            "url": "https://kb.commonhealth.com.tw/library/193.html"
+        },
+        {
+            "name": "尿失禁",
+            "url": "https://kb.commonhealth.com.tw/library/194.html"
+        },
+        {
+            "name": "肺阻塞",
+            "url": "https://kb.commonhealth.com.tw/library/195.html"
+        },
+        {
+            "name": "老年性重聽",
+            "url": "https://kb.commonhealth.com.tw/library/196.html"
+        },
+        {
+            "name": "十字韌帶損傷",
+            "url": "https://kb.commonhealth.com.tw/library/197.html"
+        },
+        {
+            "name": "口臭",
+            "url": "https://kb.commonhealth.com.tw/library/198.html"
+        },
+        {
+            "name": "異物卡進喉嚨",
+            "url": "https://kb.commonhealth.com.tw/library/199.html"
+        },
+        {
+            "name": "經痛",
+            "url": "https://kb.commonhealth.com.tw/library/200.html"
+        },
+        {
+            "name": "經前症候群",
+            "url": "https://kb.commonhealth.com.tw/library/201.html"
+        },
+        {
+            "name": "經常嗆到",
+            "url": "https://kb.commonhealth.com.tw/library/202.html"
+        },
+        {
+            "name": "講話大舌頭",
+            "url": "https://kb.commonhealth.com.tw/library/203.html"
+        },
+        {
+            "name": "甲狀腺腫大",
+            "url": "https://kb.commonhealth.com.tw/library/204.html"
+        },
+        {
+            "name": "甲狀腺凸眼症",
+            "url": "https://kb.commonhealth.com.tw/library/205.html"
+        },
+        {
+            "name": "甲狀腺癌",
+            "url": "https://kb.commonhealth.com.tw/library/206.html"
+        },
+        {
+            "name": "感染後腦脊髓膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/207.html"
+        },
+        {
+            "name": "蛤蟆腫",
+            "url": "https://kb.commonhealth.com.tw/library/208.html"
+        },
+        {
+            "name": "過早停經",
+            "url": "https://kb.commonhealth.com.tw/library/209.html"
+        },
+        {
+            "name": "過敏性鼻炎",
+            "url": "https://kb.commonhealth.com.tw/library/210.html"
+        },
+        {
+            "name": "耳前瘻管",
+            "url": "https://kb.commonhealth.com.tw/library/211.html"
+        },
+        {
+            "name": "耳疱疹",
+            "url": "https://kb.commonhealth.com.tw/library/212.html"
+        },
+        {
+            "name": "耳膜穿孔",
+            "url": "https://kb.commonhealth.com.tw/library/213.html"
+        },
+        {
+            "name": "耳鳴",
+            "url": "https://kb.commonhealth.com.tw/library/214.html"
+        },
+        {
+            "name": "耳垢堵塞",
+            "url": "https://kb.commonhealth.com.tw/library/215.html"
+        },
+        {
+            "name": "鵝口瘡",
+            "url": "https://kb.commonhealth.com.tw/library/216.html"
+        },
+        {
+            "name": "多發性硬化症",
+            "url": "https://kb.commonhealth.com.tw/library/217.html"
+        },
+        {
+            "name": "動暈症",
+            "url": "https://kb.commonhealth.com.tw/library/218.html"
+        },
+        {
+            "name": "癲癇",
+            "url": "https://kb.commonhealth.com.tw/library/219.html"
+        },
+        {
+            "name": "陰道滴蟲感染",
+            "url": "https://kb.commonhealth.com.tw/library/220.html"
+        },
+        {
+            "name": "膽脂瘤",
+            "url": "https://kb.commonhealth.com.tw/library/221.html"
+        },
+        {
+            "name": "唇疱疹",
+            "url": "https://kb.commonhealth.com.tw/library/222.html"
+        },
+        {
+            "name": "常壓性水腦症",
+            "url": "https://kb.commonhealth.com.tw/library/223.html"
+        },
+        {
+            "name": "脖子僵硬",
+            "url": "https://kb.commonhealth.com.tw/library/224.html"
+        },
+        {
+            "name": "便秘",
+            "url": "https://kb.commonhealth.com.tw/library/225.html"
+        },
+        {
+            "name": "扁桃腺結石",
+            "url": "https://kb.commonhealth.com.tw/library/226.html"
+        },
+        {
+            "name": "扁桃腺炎",
+            "url": "https://kb.commonhealth.com.tw/library/227.html"
+        },
+        {
+            "name": "鼻瘜肉",
+            "url": "https://kb.commonhealth.com.tw/library/228.html"
+        },
+        {
+            "name": "鼻涕倒流",
+            "url": "https://kb.commonhealth.com.tw/library/229.html"
+        },
+        {
+            "name": "鼻塞",
+            "url": "https://kb.commonhealth.com.tw/library/230.html"
+        },
+        {
+            "name": "鼻竇炎",
+            "url": "https://kb.commonhealth.com.tw/library/231.html"
+        },
+        {
+            "name": "巴金森氏症",
+            "url": "https://kb.commonhealth.com.tw/library/232.html"
+        },
+        {
+            "name": "香港腳",
+            "url": "https://kb.commonhealth.com.tw/library/233.html"
+        },
+        {
+            "name": "皺紋",
+            "url": "https://kb.commonhealth.com.tw/library/234.html"
+        },
+        {
+            "name": "痣",
+            "url": "https://kb.commonhealth.com.tw/library/235.html"
+        },
+        {
+            "name": "脂漏性皮膚炎",
+            "url": "https://kb.commonhealth.com.tw/library/236.html"
+        },
+        {
+            "name": "乾癬",
+            "url": "https://kb.commonhealth.com.tw/library/237.html"
+        },
+        {
+            "name": "異位性皮膚炎",
+            "url": "https://kb.commonhealth.com.tw/library/238.html"
+        },
+        {
+            "name": "頭皮屑",
+            "url": "https://kb.commonhealth.com.tw/library/239.html"
+        },
+        {
+            "name": "濕疹",
+            "url": "https://kb.commonhealth.com.tw/library/240.html"
+        },
+        {
+            "name": "曬傷",
+            "url": "https://kb.commonhealth.com.tw/library/241.html"
+        },
+        {
+            "name": "蕁麻疹",
+            "url": "https://kb.commonhealth.com.tw/library/242.html"
+        },
+        {
+            "name": "皮膚癌",
+            "url": "https://kb.commonhealth.com.tw/library/243.html"
+        },
+        {
+            "name": "單純疱疹病毒感染",
+            "url": "https://kb.commonhealth.com.tw/library/244.html"
+        },
+        {
+            "name": "毛孔粗大",
+            "url": "https://kb.commonhealth.com.tw/library/245.html"
+        },
+        {
+            "name": "橘皮組織",
+            "url": "https://kb.commonhealth.com.tw/library/246.html"
+        },
+        {
+            "name": "灰指甲",
+            "url": "https://kb.commonhealth.com.tw/library/247.html"
+        },
+        {
+            "name": "雞眼",
+            "url": "https://kb.commonhealth.com.tw/library/248.html"
+        },
+        {
+            "name": "紅斑性狼瘡",
+            "url": "https://kb.commonhealth.com.tw/library/249.html"
+        },
+        {
+            "name": "汗皰疹",
+            "url": "https://kb.commonhealth.com.tw/library/250.html"
+        },
+        {
+            "name": "蜂窩組織炎",
+            "url": "https://kb.commonhealth.com.tw/library/251.html"
+        },
+        {
+            "name": "粉瘤",
+            "url": "https://kb.commonhealth.com.tw/library/252.html"
+        },
+        {
+            "name": "痱子",
+            "url": "https://kb.commonhealth.com.tw/library/253.html"
+        },
+        {
+            "name": "痘疤",
+            "url": "https://kb.commonhealth.com.tw/library/254.html"
+        },
+        {
+            "name": "甲溝炎",
+            "url": "https://kb.commonhealth.com.tw/library/255.html"
+        },
+        {
+            "name": "成人痘",
+            "url": "https://kb.commonhealth.com.tw/library/256.html"
+        },
+        {
+            "name": "疤痕",
+            "url": "https://kb.commonhealth.com.tw/library/257.html"
+        },
+        {
+            "name": "拉肚子",
+            "url": "https://kb.commonhealth.com.tw/library/258.html"
+        },
+        {
+            "name": "血便",
+            "url": "https://kb.commonhealth.com.tw/library/259.html"
+        },
+        {
+            "name": "泌尿道上皮細胞癌",
+            "url": "https://kb.commonhealth.com.tw/library/260.html"
+        },
+        {
+            "name": "酒糟性皮膚炎",
+            "url": "https://kb.commonhealth.com.tw/library/261.html"
+        },
+        {
+            "name": "心肌炎",
+            "url": "https://kb.commonhealth.com.tw/library/262.html"
+        },
+        {
+            "name": "風濕性心臟病",
+            "url": "https://kb.commonhealth.com.tw/library/263.html"
+        },
+        {
+            "name": "二尖瓣閉鎖不全",
+            "url": "https://kb.commonhealth.com.tw/library/264.html"
+        },
+        {
+            "name": "心包膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/265.html"
+        },
+        {
+            "name": "瓣膜性心臟病",
+            "url": "https://kb.commonhealth.com.tw/library/266.html"
+        },
+        {
+            "name": "痔瘡",
+            "url": "https://kb.commonhealth.com.tw/library/267.html"
+        },
+        {
+            "name": "盲腸炎",
+            "url": "https://kb.commonhealth.com.tw/library/268.html"
+        },
+        {
+            "name": "腸扭轉",
+            "url": "https://kb.commonhealth.com.tw/library/269.html"
+        },
+        {
+            "name": "主動脈剝離",
+            "url": "https://kb.commonhealth.com.tw/library/270.html"
+        },
+        {
+            "name": "攝護腺肥大",
+            "url": "https://kb.commonhealth.com.tw/library/271.html"
+        },
+        {
+            "name": "陽痿",
+            "url": "https://kb.commonhealth.com.tw/library/272.html"
+        },
+        {
+            "name": "膀胱癌",
+            "url": "https://kb.commonhealth.com.tw/library/273.html"
+        },
+        {
+            "name": "地中海型貧血",
+            "url": "https://kb.commonhealth.com.tw/library/274.html"
+        },
+        {
+            "name": "鐮刀型貧血",
+            "url": "https://kb.commonhealth.com.tw/library/275.html"
+        },
+        {
+            "name": "蠶豆症",
+            "url": "https://kb.commonhealth.com.tw/library/276.html"
+        },
+        {
+            "name": "腕隧道症候群",
+            "url": "https://kb.commonhealth.com.tw/library/277.html"
+        },
+        {
+            "name": "痛風",
+            "url": "https://kb.commonhealth.com.tw/library/278.html"
+        },
+        {
+            "name": "溶血性貧血",
+            "url": "https://kb.commonhealth.com.tw/library/279.html"
+        },
+        {
+            "name": "腹膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/280.html"
+        },
+        {
+            "name": "氣胸",
+            "url": "https://kb.commonhealth.com.tw/library/281.html"
+        },
+        {
+            "name": "膀胱過動症",
+            "url": "https://kb.commonhealth.com.tw/library/282.html"
+        },
+        {
+            "name": "貧血",
+            "url": "https://kb.commonhealth.com.tw/library/283.html"
+        },
+        {
+            "name": "胃食道靜脈曲張出血",
+            "url": "https://kb.commonhealth.com.tw/library/284.html"
+        },
+        {
+            "name": "食道潰瘍",
+            "url": "https://kb.commonhealth.com.tw/library/285.html"
+        },
+        {
+            "name": "尿道炎",
+            "url": "https://kb.commonhealth.com.tw/library/286.html"
+        },
+        {
+            "name": "椎間盤突出",
+            "url": "https://kb.commonhealth.com.tw/library/287.html"
+        },
+        {
+            "name": "僵直性脊椎炎",
+            "url": "https://kb.commonhealth.com.tw/library/288.html"
+        },
+        {
+            "name": "蜘蛛膜下腔出血",
+            "url": "https://kb.commonhealth.com.tw/library/289.html"
+        },
+        {
+            "name": "姿勢性低血壓",
+            "url": "https://kb.commonhealth.com.tw/library/290.html"
+        },
+        {
+            "name": "癌症骨轉移",
+            "url": "https://kb.commonhealth.com.tw/library/291.html"
+        },
+        {
+            "name": "毛囊炎",
+            "url": "https://kb.commonhealth.com.tw/library/292.html"
+        },
+        {
+            "name": "假期心臟症候群",
+            "url": "https://kb.commonhealth.com.tw/library/293.html"
+        },
+        {
+            "name": "化膿性汗腺炎",
+            "url": "https://kb.commonhealth.com.tw/library/294.html"
+        },
+        {
+            "name": "糖尿病足",
+            "url": "https://kb.commonhealth.com.tw/library/295.html"
+        },
+        {
+            "name": "壞死性外耳炎",
+            "url": "https://kb.commonhealth.com.tw/library/296.html"
+        },
+        {
+            "name": "膀胱炎",
+            "url": "https://kb.commonhealth.com.tw/library/297.html"
+        },
+        {
+            "name": "黑色棘皮症",
+            "url": "https://kb.commonhealth.com.tw/library/298.html"
+        },
+        {
+            "name": "主動脈瘤",
+            "url": "https://kb.commonhealth.com.tw/library/299.html"
+        },
+        {
+            "name": "減重飲食：低醣飲食（阿金飲食）",
+            "url": "https://kb.commonhealth.com.tw/library/300.html"
+        },
+        {
+            "name": "減重飲食：低卡飲食、低熱量飲食（LCD）",
+            "url": "https://kb.commonhealth.com.tw/library/301.html"
+        },
+        {
+            "name": "減重飲食：極低卡飲食、極低熱量飲食（VLCD）",
+            "url": "https://kb.commonhealth.com.tw/library/302.html"
+        },
+        {
+            "name": "減重飲食：極低脂飲食",
+            "url": "https://kb.commonhealth.com.tw/library/303.html"
+        },
+        {
+            "name": "腎臟病飲食：減磷飲食",
+            "url": "https://kb.commonhealth.com.tw/library/304.html"
+        },
+        {
+            "name": "高血壓飲食：限鈉飲食、低鈉飲食",
+            "url": "https://kb.commonhealth.com.tw/library/305.html"
+        },
+        {
+            "name": "高血壓飲食：飲食少油",
+            "url": "https://kb.commonhealth.com.tw/library/306.html"
+        },
+        {
+            "name": "高血壓飲食：飲食少鹽",
+            "url": "https://kb.commonhealth.com.tw/library/307.html"
+        },
+        {
+            "name": "得舒飲食（DASH飲食計畫）",
+            "url": "https://kb.commonhealth.com.tw/library/308.html"
+        },
+        {
+            "name": "高血壓飲食：飲食多蔬果",
+            "url": "https://kb.commonhealth.com.tw/library/309.html"
+        },
+        {
+            "name": "高血壓飲食：飲食少加工食品",
+            "url": "https://kb.commonhealth.com.tw/library/310.html"
+        },
+        {
+            "name": "β-胡蘿蔔素",
+            "url": "https://kb.commonhealth.com.tw/library/311.html"
+        },
+        {
+            "name": "反式脂肪",
+            "url": "https://kb.commonhealth.com.tw/library/312.html"
+        },
+        {
+            "name": "鋅",
+            "url": "https://kb.commonhealth.com.tw/library/313.html"
+        },
+        {
+            "name": "支鏈澱粉",
+            "url": "https://kb.commonhealth.com.tw/library/314.html"
+        },
+        {
+            "name": "菊糖",
+            "url": "https://kb.commonhealth.com.tw/library/315.html"
+        },
+        {
+            "name": "木糖醇",
+            "url": "https://kb.commonhealth.com.tw/library/316.html"
+        },
+        {
+            "name": "山梨糖醇",
+            "url": "https://kb.commonhealth.com.tw/library/317.html"
+        },
+        {
+            "name": "赤藻糖醇",
+            "url": "https://kb.commonhealth.com.tw/library/318.html"
+        },
+        {
+            "name": "直排輪",
+            "url": "https://kb.commonhealth.com.tw/library/319.html"
+        },
+        {
+            "name": "日常微運動：平常辦公",
+            "url": "https://kb.commonhealth.com.tw/library/320.html"
+        },
+        {
+            "name": "日常微運動：洗碗",
+            "url": "https://kb.commonhealth.com.tw/library/321.html"
+        },
+        {
+            "name": "羽毛球",
+            "url": "https://kb.commonhealth.com.tw/library/322.html"
+        },
+        {
+            "name": "籃球",
+            "url": "https://kb.commonhealth.com.tw/library/323.html"
+        },
+        {
+            "name": "高血壓飲食：飲食多高纖食物",
+            "url": "https://kb.commonhealth.com.tw/library/324.html"
+        },
+        {
+            "name": "新冠肺炎",
+            "url": "https://kb.commonhealth.com.tw/library/325.html"
+        },
+        {
+            "name": "日常微運動：家庭園藝",
+            "url": "https://kb.commonhealth.com.tw/library/326.html"
+        },
+        {
+            "name": "日常微運動：煮飯",
+            "url": "https://kb.commonhealth.com.tw/library/327.html"
+        },
+        {
+            "name": "日常微運動：開車",
+            "url": "https://kb.commonhealth.com.tw/library/328.html"
+        },
+        {
+            "name": "登革熱",
+            "url": "https://kb.commonhealth.com.tw/library/329.html"
+        },
+        {
+            "name": "麻疹",
+            "url": "https://kb.commonhealth.com.tw/library/330.html"
+        },
+        {
+            "name": "散光",
+            "url": "https://kb.commonhealth.com.tw/library/331.html"
+        },
+        {
+            "name": "運動傷害",
+            "url": "https://kb.commonhealth.com.tw/library/332.html"
+        },
+        {
+            "name": "肌腱炎",
+            "url": "https://kb.commonhealth.com.tw/library/333.html"
+        },
+        {
+            "name": "中暑",
+            "url": "https://kb.commonhealth.com.tw/library/334.html"
+        },
+        {
+            "name": "肩頸痠痛",
+            "url": "https://kb.commonhealth.com.tw/library/335.html"
+        },
+        {
+            "name": "愛滋病",
+            "url": "https://kb.commonhealth.com.tw/library/336.html"
+        },
+        {
+            "name": "乳房腫塊",
+            "url": "https://kb.commonhealth.com.tw/library/337.html"
+        },
+        {
+            "name": "皮膚搔癢",
+            "url": "https://kb.commonhealth.com.tw/library/338.html"
+        },
+        {
+            "name": "排便不順",
+            "url": "https://kb.commonhealth.com.tw/library/339.html"
+        },
+        {
+            "name": "呼吸急促",
+            "url": "https://kb.commonhealth.com.tw/library/340.html"
+        },
+        {
+            "name": "吞嚥困難",
+            "url": "https://kb.commonhealth.com.tw/library/341.html"
+        },
+        {
+            "name": "咬合不正",
+            "url": "https://kb.commonhealth.com.tw/library/342.html"
+        },
+        {
+            "name": "口腔潰爛",
+            "url": "https://kb.commonhealth.com.tw/library/343.html"
+        },
+        {
+            "name": "鼻炎",
+            "url": "https://kb.commonhealth.com.tw/library/344.html"
+        },
+        {
+            "name": "咽喉炎",
+            "url": "https://kb.commonhealth.com.tw/library/345.html"
+        },
+        {
+            "name": "乳房疼痛",
+            "url": "https://kb.commonhealth.com.tw/library/346.html"
+        },
+        {
+            "name": "男性女乳症",
+            "url": "https://kb.commonhealth.com.tw/library/347.html"
+        },
+        {
+            "name": "乳房纖維囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/348.html"
+        },
+        {
+            "name": "不正常分泌乳汁",
+            "url": "https://kb.commonhealth.com.tw/library/349.html"
+        },
+        {
+            "name": "乳腺炎",
+            "url": "https://kb.commonhealth.com.tw/library/350.html"
+        },
+        {
+            "name": "淋巴水腫",
+            "url": "https://kb.commonhealth.com.tw/library/351.html"
+        },
+        {
+            "name": "髂脛束症候群",
+            "url": "https://kb.commonhealth.com.tw/library/352.html"
+        },
+        {
+            "name": "滑囊炎",
+            "url": "https://kb.commonhealth.com.tw/library/353.html"
+        },
+        {
+            "name": "退化性關節炎",
+            "url": "https://kb.commonhealth.com.tw/library/354.html"
+        },
+        {
+            "name": "跳躍膝",
+            "url": "https://kb.commonhealth.com.tw/library/355.html"
+        },
+        {
+            "name": "狂犬病",
+            "url": "https://kb.commonhealth.com.tw/library/356.html"
+        },
+        {
+            "name": "輪狀病毒感染",
+            "url": "https://kb.commonhealth.com.tw/library/357.html"
+        },
+        {
+            "name": "諾羅病毒感染",
+            "url": "https://kb.commonhealth.com.tw/library/358.html"
+        },
+        {
+            "name": "破傷風",
+            "url": "https://kb.commonhealth.com.tw/library/359.html"
+        },
+        {
+            "name": "雄性禿",
+            "url": "https://kb.commonhealth.com.tw/library/360.html"
+        },
+        {
+            "name": "乳糖不耐症",
+            "url": "https://kb.commonhealth.com.tw/library/361.html"
+        },
+        {
+            "name": "梅尼爾氏症",
+            "url": "https://kb.commonhealth.com.tw/library/362.html"
+        },
+        {
+            "name": "高山症",
+            "url": "https://kb.commonhealth.com.tw/library/363.html"
+        },
+        {
+            "name": "富貴手",
+            "url": "https://kb.commonhealth.com.tw/library/364.html"
+        },
+        {
+            "name": "巧克力囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/365.html"
+        },
+        {
+            "name": "食物中毒",
+            "url": "https://kb.commonhealth.com.tw/library/366.html"
+        },
+        {
+            "name": "自閉症",
+            "url": "https://kb.commonhealth.com.tw/library/367.html"
+        },
+        {
+            "name": "強迫症",
+            "url": "https://kb.commonhealth.com.tw/library/368.html"
+        },
+        {
+            "name": "厭食症",
+            "url": "https://kb.commonhealth.com.tw/library/369.html"
+        },
+        {
+            "name": "創傷後壓力症候群",
+            "url": "https://kb.commonhealth.com.tw/library/370.html"
+        },
+        {
+            "name": "注意力不足過動症",
+            "url": "https://kb.commonhealth.com.tw/library/371.html"
+        },
+        {
+            "name": "妥瑞氏症",
+            "url": "https://kb.commonhealth.com.tw/library/372.html"
+        },
+        {
+            "name": "焦慮症",
+            "url": "https://kb.commonhealth.com.tw/library/373.html"
+        },
+        {
+            "name": "產後憂鬱症",
+            "url": "https://kb.commonhealth.com.tw/library/374.html"
+        },
+        {
+            "name": "幽閉恐懼症",
+            "url": "https://kb.commonhealth.com.tw/library/375.html"
+        },
+        {
+            "name": "社交焦慮症",
+            "url": "https://kb.commonhealth.com.tw/library/376.html"
+        },
+        {
+            "name": "亞斯伯格症",
+            "url": "https://kb.commonhealth.com.tw/library/377.html"
+        },
+        {
+            "name": "情緒障礙",
+            "url": "https://kb.commonhealth.com.tw/library/378.html"
+        },
+        {
+            "name": "精神官能症",
+            "url": "https://kb.commonhealth.com.tw/library/379.html"
+        },
+        {
+            "name": "憂鬱症",
+            "url": "https://kb.commonhealth.com.tw/library/380.html"
+        },
+        {
+            "name": "角膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/381.html"
+        },
+        {
+            "name": "疝氣",
+            "url": "https://kb.commonhealth.com.tw/library/382.html"
+        },
+        {
+            "name": "德國麻疹",
+            "url": "https://kb.commonhealth.com.tw/library/383.html"
+        },
+        {
+            "name": "腸病毒感染",
+            "url": "https://kb.commonhealth.com.tw/library/384.html"
+        },
+        {
+            "name": "水痘",
+            "url": "https://kb.commonhealth.com.tw/library/385.html"
+        },
+        {
+            "name": "燒傷或燙傷",
+            "url": "https://kb.commonhealth.com.tw/library/386.html"
+        },
+        {
+            "name": "血友病",
+            "url": "https://kb.commonhealth.com.tw/library/387.html"
+        },
+        {
+            "name": "子宮外孕",
+            "url": "https://kb.commonhealth.com.tw/library/388.html"
+        },
+        {
+            "name": "失眠",
+            "url": "https://kb.commonhealth.com.tw/library/389.html"
+        },
+        {
+            "name": "嗜睡",
+            "url": "https://kb.commonhealth.com.tw/library/390.html"
+        },
+        {
+            "name": "疲倦",
+            "url": "https://kb.commonhealth.com.tw/library/391.html"
+        },
+        {
+            "name": "冒冷汗",
+            "url": "https://kb.commonhealth.com.tw/library/392.html"
+        },
+        {
+            "name": "全身無力",
+            "url": "https://kb.commonhealth.com.tw/library/393.html"
+        },
+        {
+            "name": "盜汗",
+            "url": "https://kb.commonhealth.com.tw/library/394.html"
+        },
+        {
+            "name": "體重快速下降",
+            "url": "https://kb.commonhealth.com.tw/library/395.html"
+        },
+        {
+            "name": "打冷顫",
+            "url": "https://kb.commonhealth.com.tw/library/396.html"
+        },
+        {
+            "name": "畏光",
+            "url": "https://kb.commonhealth.com.tw/library/397.html"
+        },
+        {
+            "name": "眼睛有血絲",
+            "url": "https://kb.commonhealth.com.tw/library/398.html"
+        },
+        {
+            "name": "用眼過度",
+            "url": "https://kb.commonhealth.com.tw/library/399.html"
+        },
+        {
+            "name": "腰痛",
+            "url": "https://kb.commonhealth.com.tw/library/400.html"
+        },
+        {
+            "name": "背痛",
+            "url": "https://kb.commonhealth.com.tw/library/401.html"
+        },
+        {
+            "name": "皮膚化膿",
+            "url": "https://kb.commonhealth.com.tw/library/402.html"
+        },
+        {
+            "name": "夜間多尿",
+            "url": "https://kb.commonhealth.com.tw/library/403.html"
+        },
+        {
+            "name": "體臭",
+            "url": "https://kb.commonhealth.com.tw/library/404.html"
+        },
+        {
+            "name": "手腳冰冷",
+            "url": "https://kb.commonhealth.com.tw/library/405.html"
+        },
+        {
+            "name": "大量掉髮或禿頭",
+            "url": "https://kb.commonhealth.com.tw/library/406.html"
+        },
+        {
+            "name": "維生素D",
+            "url": "https://kb.commonhealth.com.tw/library/407.html"
+        },
+        {
+            "name": "維生素C",
+            "url": "https://kb.commonhealth.com.tw/library/408.html"
+        },
+        {
+            "name": "鈣",
+            "url": "https://kb.commonhealth.com.tw/library/409.html"
+        },
+        {
+            "name": "葉黃素",
+            "url": "https://kb.commonhealth.com.tw/library/410.html"
+        },
+        {
+            "name": "思覺失調症",
+            "url": "https://kb.commonhealth.com.tw/library/411.html"
+        },
+        {
+            "name": "早洩",
+            "url": "https://kb.commonhealth.com.tw/library/412.html"
+        },
+        {
+            "name": "男性不孕症",
+            "url": "https://kb.commonhealth.com.tw/library/413.html"
+        },
+        {
+            "name": "胸悶或胸痛",
+            "url": "https://kb.commonhealth.com.tw/library/414.html"
+        },
+        {
+            "name": "噁心嘔吐",
+            "url": "https://kb.commonhealth.com.tw/library/415.html"
+        },
+        {
+            "name": "青春痘",
+            "url": "https://kb.commonhealth.com.tw/library/416.html"
+        },
+        {
+            "name": "漸凍人症",
+            "url": "https://kb.commonhealth.com.tw/library/417.html"
+        },
+        {
+            "name": "流鼻涕",
+            "url": "https://kb.commonhealth.com.tw/library/418.html"
+        },
+        {
+            "name": "瘀青",
+            "url": "https://kb.commonhealth.com.tw/library/419.html"
+        },
+        {
+            "name": "淋巴結腫大",
+            "url": "https://kb.commonhealth.com.tw/library/420.html"
+        },
+        {
+            "name": "打呼",
+            "url": "https://kb.commonhealth.com.tw/library/421.html"
+        },
+        {
+            "name": "黑眼圈",
+            "url": "https://kb.commonhealth.com.tw/library/422.html"
+        },
+        {
+            "name": "視力模糊",
+            "url": "https://kb.commonhealth.com.tw/library/423.html"
+        },
+        {
+            "name": "眼睛乾澀",
+            "url": "https://kb.commonhealth.com.tw/library/424.html"
+        },
+        {
+            "name": "阿茲海默症",
+            "url": "https://kb.commonhealth.com.tw/library/425.html"
+        },
+        {
+            "name": "體化症",
+            "url": "https://kb.commonhealth.com.tw/library/426.html"
+        },
+        {
+            "name": "廣泛性焦慮症",
+            "url": "https://kb.commonhealth.com.tw/library/427.html"
+        },
+        {
+            "name": "恐慌症",
+            "url": "https://kb.commonhealth.com.tw/library/428.html"
+        },
+        {
+            "name": "神經衰弱症",
+            "url": "https://kb.commonhealth.com.tw/library/429.html"
+        },
+        {
+            "name": "躁鬱症",
+            "url": "https://kb.commonhealth.com.tw/library/430.html"
+        },
+        {
+            "name": "解離症",
+            "url": "https://kb.commonhealth.com.tw/library/431.html"
+        },
+        {
+            "name": "學習障礙",
+            "url": "https://kb.commonhealth.com.tw/library/432.html"
+        },
+        {
+            "name": "失憶症",
+            "url": "https://kb.commonhealth.com.tw/library/433.html"
+        },
+        {
+            "name": "嗜睡症",
+            "url": "https://kb.commonhealth.com.tw/library/434.html"
+        },
+        {
+            "name": "睡眠不足",
+            "url": "https://kb.commonhealth.com.tw/library/435.html"
+        },
+        {
+            "name": "玫瑰糠疹",
+            "url": "https://kb.commonhealth.com.tw/library/436.html"
+        },
+        {
+            "name": "膿痂疹",
+            "url": "https://kb.commonhealth.com.tw/library/437.html"
+        },
+        {
+            "name": "櫻桃血管瘤",
+            "url": "https://kb.commonhealth.com.tw/library/438.html"
+        },
+        {
+            "name": "母斑",
+            "url": "https://kb.commonhealth.com.tw/library/439.html"
+        },
+        {
+            "name": "庫欣氏症",
+            "url": "https://kb.commonhealth.com.tw/library/440.html"
+        },
+        {
+            "name": "拔毛症",
+            "url": "https://kb.commonhealth.com.tw/library/441.html"
+        },
+        {
+            "name": "病態建築症候群",
+            "url": "https://kb.commonhealth.com.tw/library/442.html"
+        },
+        {
+            "name": "心腎症候群",
+            "url": "https://kb.commonhealth.com.tw/library/443.html"
+        },
+        {
+            "name": "癤",
+            "url": "https://kb.commonhealth.com.tw/library/444.html"
+        },
+        {
+            "name": "譫妄",
+            "url": "https://kb.commonhealth.com.tw/library/445.html"
+        },
+        {
+            "name": "白化症",
+            "url": "https://kb.commonhealth.com.tw/library/446.html"
+        },
+        {
+            "name": "唐氏症",
+            "url": "https://kb.commonhealth.com.tw/library/447.html"
+        },
+        {
+            "name": "副甲狀腺機能亢進",
+            "url": "https://kb.commonhealth.com.tw/library/448.html"
+        },
+        {
+            "name": "代謝性酸中毒",
+            "url": "https://kb.commonhealth.com.tw/library/449.html"
+        },
+        {
+            "name": "代謝性鹼中毒",
+            "url": "https://kb.commonhealth.com.tw/library/450.html"
+        },
+        {
+            "name": "偏頭痛",
+            "url": "https://kb.commonhealth.com.tw/library/451.html"
+        },
+        {
+            "name": "糖尿病視網膜病變",
+            "url": "https://kb.commonhealth.com.tw/library/452.html"
+        },
+        {
+            "name": "自律神經失調",
+            "url": "https://kb.commonhealth.com.tw/library/453.html"
+        },
+        {
+            "name": "腦震盪",
+            "url": "https://kb.commonhealth.com.tw/library/454.html"
+        },
+        {
+            "name": "維生素B1",
+            "url": "https://kb.commonhealth.com.tw/library/455.html"
+        },
+        {
+            "name": "維生素B2",
+            "url": "https://kb.commonhealth.com.tw/library/456.html"
+        },
+        {
+            "name": "白胺酸",
+            "url": "https://kb.commonhealth.com.tw/library/457.html"
+        },
+        {
+            "name": "膽素",
+            "url": "https://kb.commonhealth.com.tw/library/458.html"
+        },
+        {
+            "name": "銅",
+            "url": "https://kb.commonhealth.com.tw/library/459.html"
+        },
+        {
+            "name": "離胺酸",
+            "url": "https://kb.commonhealth.com.tw/library/460.html"
+        },
+        {
+            "name": "肌酸",
+            "url": "https://kb.commonhealth.com.tw/library/461.html"
+        },
+        {
+            "name": "維生素B12",
+            "url": "https://kb.commonhealth.com.tw/library/462.html"
+        },
+        {
+            "name": "葉酸",
+            "url": "https://kb.commonhealth.com.tw/library/463.html"
+        },
+        {
+            "name": "生物素",
+            "url": "https://kb.commonhealth.com.tw/library/464.html"
+        },
+        {
+            "name": "吡哆素",
+            "url": "https://kb.commonhealth.com.tw/library/465.html"
+        },
+        {
+            "name": "泛酸",
+            "url": "https://kb.commonhealth.com.tw/library/466.html"
+        },
+        {
+            "name": "菸鹼素",
+            "url": "https://kb.commonhealth.com.tw/library/467.html"
+        },
+        {
+            "name": "維生素A",
+            "url": "https://kb.commonhealth.com.tw/library/468.html"
+        },
+        {
+            "name": "維生素E",
+            "url": "https://kb.commonhealth.com.tw/library/469.html"
+        },
+        {
+            "name": "維生素K",
+            "url": "https://kb.commonhealth.com.tw/library/470.html"
+        },
+        {
+            "name": "硒",
+            "url": "https://kb.commonhealth.com.tw/library/471.html"
+        },
+        {
+            "name": "色胺酸",
+            "url": "https://kb.commonhealth.com.tw/library/472.html"
+        },
+        {
+            "name": "生物類黃酮",
+            "url": "https://kb.commonhealth.com.tw/library/473.html"
+        },
+        {
+            "name": "水",
+            "url": "https://kb.commonhealth.com.tw/library/474.html"
+        },
+        {
+            "name": "益生菌",
+            "url": "https://kb.commonhealth.com.tw/library/475.html"
+        },
+        {
+            "name": "鎂",
+            "url": "https://kb.commonhealth.com.tw/library/476.html"
+        },
+        {
+            "name": "鉀",
+            "url": "https://kb.commonhealth.com.tw/library/477.html"
+        },
+        {
+            "name": "鐵",
+            "url": "https://kb.commonhealth.com.tw/library/478.html"
+        },
+        {
+            "name": "玉米黃素",
+            "url": "https://kb.commonhealth.com.tw/library/479.html"
+        },
+        {
+            "name": "薑黃素",
+            "url": "https://kb.commonhealth.com.tw/library/480.html"
+        },
+        {
+            "name": "膳食纖維",
+            "url": "https://kb.commonhealth.com.tw/library/481.html"
+        },
+        {
+            "name": "Omega-3 脂肪酸",
+            "url": "https://kb.commonhealth.com.tw/library/482.html"
+        },
+        {
+            "name": "Omega-6 脂肪酸",
+            "url": "https://kb.commonhealth.com.tw/library/483.html"
+        },
+        {
+            "name": "卵磷脂",
+            "url": "https://kb.commonhealth.com.tw/library/484.html"
+        },
+        {
+            "name": "蛋白質",
+            "url": "https://kb.commonhealth.com.tw/library/485.html"
+        },
+        {
+            "name": "腸脹氣",
+            "url": "https://kb.commonhealth.com.tw/library/486.html"
+        },
+        {
+            "name": "史蒂芬強森症候群",
+            "url": "https://kb.commonhealth.com.tw/library/487.html"
+        },
+        {
+            "name": "骨折",
+            "url": "https://kb.commonhealth.com.tw/library/488.html"
+        },
+        {
+            "name": "心碎症候群",
+            "url": "https://kb.commonhealth.com.tw/library/489.html"
+        },
+        {
+            "name": "近視",
+            "url": "https://kb.commonhealth.com.tw/library/490.html"
+        },
+        {
+            "name": "纖維素",
+            "url": "https://kb.commonhealth.com.tw/library/491.html"
+        },
+        {
+            "name": "遠視",
+            "url": "https://kb.commonhealth.com.tw/library/492.html"
+        },
+        {
+            "name": "多汗症",
+            "url": "https://kb.commonhealth.com.tw/library/493.html"
+        },
+        {
+            "name": "壞死性筋膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/494.html"
+        },
+        {
+            "name": "鬱血性皮膚炎",
+            "url": "https://kb.commonhealth.com.tw/library/495.html"
+        },
+        {
+            "name": "貓抓病",
+            "url": "https://kb.commonhealth.com.tw/library/496.html"
+        },
+        {
+            "name": "霍亂",
+            "url": "https://kb.commonhealth.com.tw/library/497.html"
+        },
+        {
+            "name": "黃熱病",
+            "url": "https://kb.commonhealth.com.tw/library/498.html"
+        },
+        {
+            "name": "傷寒",
+            "url": "https://kb.commonhealth.com.tw/library/499.html"
+        },
+        {
+            "name": "痲瘋",
+            "url": "https://kb.commonhealth.com.tw/library/500.html"
+        },
+        {
+            "name": "塵蟎",
+            "url": "https://kb.commonhealth.com.tw/library/501.html"
+        },
+        {
+            "name": "漢他病毒",
+            "url": "https://kb.commonhealth.com.tw/library/502.html"
+        },
+        {
+            "name": "瘧疾",
+            "url": "https://kb.commonhealth.com.tw/library/504.html"
+        },
+        {
+            "name": "日本腦炎",
+            "url": "https://kb.commonhealth.com.tw/library/505.html"
+        },
+        {
+            "name": "頭蝨",
+            "url": "https://kb.commonhealth.com.tw/library/506.html"
+        },
+        {
+            "name": "肝膿瘍",
+            "url": "https://kb.commonhealth.com.tw/library/507.html"
+        },
+        {
+            "name": "凍瘡",
+            "url": "https://kb.commonhealth.com.tw/library/508.html"
+        },
+        {
+            "name": "退伍軍人症",
+            "url": "https://kb.commonhealth.com.tw/library/509.html"
+        },
+        {
+            "name": "骨膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/510.html"
+        },
+        {
+            "name": "接觸性皮膚炎",
+            "url": "https://kb.commonhealth.com.tw/library/511.html"
+        },
+        {
+            "name": "畢賽氏症候群",
+            "url": "https://kb.commonhealth.com.tw/library/512.html"
+        },
+        {
+            "name": "脫水",
+            "url": "https://kb.commonhealth.com.tw/library/513.html"
+        },
+        {
+            "name": "鉤蟲病",
+            "url": "https://kb.commonhealth.com.tw/library/514.html"
+        },
+        {
+            "name": "子宮後傾",
+            "url": "https://kb.commonhealth.com.tw/library/515.html"
+        },
+        {
+            "name": "犬心絲蟲",
+            "url": "https://kb.commonhealth.com.tw/library/516.html"
+        },
+        {
+            "name": "蛔蟲",
+            "url": "https://kb.commonhealth.com.tw/library/517.html"
+        },
+        {
+            "name": "腎盂腎炎",
+            "url": "https://kb.commonhealth.com.tw/library/518.html"
+        },
+        {
+            "name": "外陰炎",
+            "url": "https://kb.commonhealth.com.tw/library/519.html"
+        },
+        {
+            "name": "失溫",
+            "url": "https://kb.commonhealth.com.tw/library/520.html"
+        },
+        {
+            "name": "伊波拉病毒",
+            "url": "https://kb.commonhealth.com.tw/library/521.html"
+        },
+        {
+            "name": "跟腱炎",
+            "url": "https://kb.commonhealth.com.tw/library/522.html"
+        },
+        {
+            "name": "舌癌",
+            "url": "https://kb.commonhealth.com.tw/library/523.html"
+        },
+        {
+            "name": "夜盲症",
+            "url": "https://kb.commonhealth.com.tw/library/524.html"
+        },
+        {
+            "name": "砂眼",
+            "url": "https://kb.commonhealth.com.tw/library/525.html"
+        },
+        {
+            "name": "唇顎裂",
+            "url": "https://kb.commonhealth.com.tw/library/526.html"
+        },
+        {
+            "name": "神經性皮膚炎",
+            "url": "https://kb.commonhealth.com.tw/library/527.html"
+        },
+        {
+            "name": "猩紅熱",
+            "url": "https://kb.commonhealth.com.tw/library/528.html"
+        },
+        {
+            "name": "紫質症",
+            "url": "https://kb.commonhealth.com.tw/library/529.html"
+        },
+        {
+            "name": "陰蝨",
+            "url": "https://kb.commonhealth.com.tw/library/530.html"
+        },
+        {
+            "name": "神經母細胞瘤",
+            "url": "https://kb.commonhealth.com.tw/library/531.html"
+        },
+        {
+            "name": "大腸桿菌感染",
+            "url": "https://kb.commonhealth.com.tw/library/532.html"
+        },
+        {
+            "name": "口腔扁平苔癬症",
+            "url": "https://kb.commonhealth.com.tw/library/533.html"
+        },
+        {
+            "name": "口腔燙傷",
+            "url": "https://kb.commonhealth.com.tw/library/534.html"
+        },
+        {
+            "name": "口鼻黏膜乾燥",
+            "url": "https://kb.commonhealth.com.tw/library/535.html"
+        },
+        {
+            "name": "牙齒膿瘍",
+            "url": "https://kb.commonhealth.com.tw/library/536.html"
+        },
+        {
+            "name": "子宮頸炎",
+            "url": "https://kb.commonhealth.com.tw/library/537.html"
+        },
+        {
+            "name": "牙齦增生",
+            "url": "https://kb.commonhealth.com.tw/library/538.html"
+        },
+        {
+            "name": "外傷性牙齒傷害",
+            "url": "https://kb.commonhealth.com.tw/library/539.html"
+        },
+        {
+            "name": "阻生性智齒",
+            "url": "https://kb.commonhealth.com.tw/library/540.html"
+        },
+        {
+            "name": "急性壞死性潰瘍性齦炎",
+            "url": "https://kb.commonhealth.com.tw/library/541.html"
+        },
+        {
+            "name": "乾性齒槽炎",
+            "url": "https://kb.commonhealth.com.tw/library/542.html"
+        },
+        {
+            "name": "深層靜脈血栓",
+            "url": "https://kb.commonhealth.com.tw/library/543.html"
+        },
+        {
+            "name": "唾液腺功能障礙",
+            "url": "https://kb.commonhealth.com.tw/library/544.html"
+        },
+        {
+            "name": "唾液腺炎",
+            "url": "https://kb.commonhealth.com.tw/library/545.html"
+        },
+        {
+            "name": "低血糖",
+            "url": "https://kb.commonhealth.com.tw/library/546.html"
+        },
+        {
+            "name": "妊娠糖尿病",
+            "url": "https://kb.commonhealth.com.tw/library/547.html"
+        },
+        {
+            "name": "腦下垂體功能障礙",
+            "url": "https://kb.commonhealth.com.tw/library/548.html"
+        },
+        {
+            "name": "睪固酮低下症候群",
+            "url": "https://kb.commonhealth.com.tw/library/549.html"
+        },
+        {
+            "name": "唾液腺腫瘤",
+            "url": "https://kb.commonhealth.com.tw/library/550.html"
+        },
+        {
+            "name": "副甲狀腺機能低下",
+            "url": "https://kb.commonhealth.com.tw/library/551.html"
+        },
+        {
+            "name": "高胰島素血症",
+            "url": "https://kb.commonhealth.com.tw/library/552.html"
+        },
+        {
+            "name": "上腔靜脈症候群",
+            "url": "https://kb.commonhealth.com.tw/library/553.html"
+        },
+        {
+            "name": "心內膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/554.html"
+        },
+        {
+            "name": "心肌病變",
+            "url": "https://kb.commonhealth.com.tw/library/555.html"
+        },
+        {
+            "name": "手足發紺症",
+            "url": "https://kb.commonhealth.com.tw/library/556.html"
+        },
+        {
+            "name": "巨細胞動脈炎（顳動脈炎）",
+            "url": "https://kb.commonhealth.com.tw/library/557.html"
+        },
+        {
+            "name": "甲狀腺毒症",
+            "url": "https://kb.commonhealth.com.tw/library/558.html"
+        },
+        {
+            "name": "早發性心室收縮",
+            "url": "https://kb.commonhealth.com.tw/library/559.html"
+        },
+        {
+            "name": "血栓性靜脈炎",
+            "url": "https://kb.commonhealth.com.tw/library/560.html"
+        },
+        {
+            "name": "周邊動脈阻塞",
+            "url": "https://kb.commonhealth.com.tw/library/561.html"
+        },
+        {
+            "name": "房室傳導阻滯",
+            "url": "https://kb.commonhealth.com.tw/library/562.html"
+        },
+        {
+            "name": "直立不耐症",
+            "url": "https://kb.commonhealth.com.tw/library/563.html"
+        },
+        {
+            "name": "肺動脈高壓",
+            "url": "https://kb.commonhealth.com.tw/library/564.html"
+        },
+        {
+            "name": "青斑狀血管炎",
+            "url": "https://kb.commonhealth.com.tw/library/565.html"
+        },
+        {
+            "name": "原發性肥胖",
+            "url": "https://kb.commonhealth.com.tw/library/566.html"
+        },
+        {
+            "name": "原發性醛類脂醇過高症",
+            "url": "https://kb.commonhealth.com.tw/library/567.html"
+        },
+        {
+            "name": "神經內分泌腫瘤",
+            "url": "https://kb.commonhealth.com.tw/library/568.html"
+        },
+        {
+            "name": "嗜鉻細胞瘤",
+            "url": "https://kb.commonhealth.com.tw/library/569.html"
+        },
+        {
+            "name": "良性血管球瘤",
+            "url": "https://kb.commonhealth.com.tw/library/570.html"
+        },
+        {
+            "name": "脊椎基底動脈供血不足",
+            "url": "https://kb.commonhealth.com.tw/library/572.html"
+        },
+        {
+            "name": "馬凡氏症",
+            "url": "https://kb.commonhealth.com.tw/library/573.html"
+        },
+        {
+            "name": "細菌性陰道炎",
+            "url": "https://kb.commonhealth.com.tw/library/574.html"
+        },
+        {
+            "name": "腎動脈狹窄",
+            "url": "https://kb.commonhealth.com.tw/library/575.html"
+        },
+        {
+            "name": "感染性靜脈炎",
+            "url": "https://kb.commonhealth.com.tw/library/576.html"
+        },
+        {
+            "name": "糖尿病酮酸中毒",
+            "url": "https://kb.commonhealth.com.tw/library/577.html"
+        },
+        {
+            "name": "靜脈曲張性潰瘍",
+            "url": "https://kb.commonhealth.com.tw/library/578.html"
+        },
+        {
+            "name": "高安氏動脈炎",
+            "url": "https://kb.commonhealth.com.tw/library/579.html"
+        },
+        {
+            "name": "腹主動脈剝離",
+            "url": "https://kb.commonhealth.com.tw/library/580.html"
+        },
+        {
+            "name": "腹主動脈瘤破裂",
+            "url": "https://kb.commonhealth.com.tw/library/581.html"
+        },
+        {
+            "name": "慢性外陰疼痛",
+            "url": "https://kb.commonhealth.com.tw/library/582.html"
+        },
+        {
+            "name": "遺傳性出血性血管擴張症",
+            "url": "https://kb.commonhealth.com.tw/library/583.html"
+        },
+        {
+            "name": "頸動脈阻塞症候群",
+            "url": "https://kb.commonhealth.com.tw/library/584.html"
+        },
+        {
+            "name": "頸靜脈竇瘤",
+            "url": "https://kb.commonhealth.com.tw/library/585.html"
+        },
+        {
+            "name": "蹠底靜脈曲張",
+            "url": "https://kb.commonhealth.com.tw/library/586.html"
+        },
+        {
+            "name": "子宮附屬器扭轉",
+            "url": "https://kb.commonhealth.com.tw/library/587.html"
+        },
+        {
+            "name": "子癇前症",
+            "url": "https://kb.commonhealth.com.tw/library/588.html"
+        },
+        {
+            "name": "化膿性肉芽腫",
+            "url": "https://kb.commonhealth.com.tw/library/589.html"
+        },
+        {
+            "name": "少汗症",
+            "url": "https://kb.commonhealth.com.tw/library/590.html"
+        },
+        {
+            "name": "手癬",
+            "url": "https://kb.commonhealth.com.tw/library/591.html"
+        },
+        {
+            "name": "日光性角化症",
+            "url": "https://kb.commonhealth.com.tw/library/592.html"
+        },
+        {
+            "name": "竇房結病變症候群",
+            "url": "https://kb.commonhealth.com.tw/library/593.html"
+        },
+        {
+            "name": "下肢靜脈功能不全",
+            "url": "https://kb.commonhealth.com.tw/library/594.html"
+        },
+        {
+            "name": "日光性唇炎",
+            "url": "https://kb.commonhealth.com.tw/library/595.html"
+        },
+        {
+            "name": "火逼性紅斑",
+            "url": "https://kb.commonhealth.com.tw/library/596.html"
+        },
+        {
+            "name": "吉伯特氏症",
+            "url": "https://kb.commonhealth.com.tw/library/597.html"
+        },
+        {
+            "name": "多毛症",
+            "url": "https://kb.commonhealth.com.tw/library/598.html"
+        },
+        {
+            "name": "多形性紅斑",
+            "url": "https://kb.commonhealth.com.tw/library/599.html"
+        },
+        {
+            "name": "尿道肉阜",
+            "url": "https://kb.commonhealth.com.tw/library/600.html"
+        },
+        {
+            "name": "乳房膿瘍",
+            "url": "https://kb.commonhealth.com.tw/library/601.html"
+        },
+        {
+            "name": "乳腺管擴張",
+            "url": "https://kb.commonhealth.com.tw/library/602.html"
+        },
+        {
+            "name": "乳管內乳突瘤",
+            "url": "https://kb.commonhealth.com.tw/library/603.html"
+        },
+        {
+            "name": "乳房佩吉特氏症",
+            "url": "https://kb.commonhealth.com.tw/library/604.html"
+        },
+        {
+            "name": "佩洛尼氏症",
+            "url": "https://kb.commonhealth.com.tw/library/605.html"
+        },
+        {
+            "name": "花柳性淋巴肉芽腫",
+            "url": "https://kb.commonhealth.com.tw/library/606.html"
+        },
+        {
+            "name": "陰道痙攣",
+            "url": "https://kb.commonhealth.com.tw/library/607.html"
+        },
+        {
+            "name": "產後掉髮",
+            "url": "https://kb.commonhealth.com.tw/library/608.html"
+        },
+        {
+            "name": "心房中膈缺損",
+            "url": "https://kb.commonhealth.com.tw/library/609.html"
+        },
+        {
+            "name": "心室中膈缺損",
+            "url": "https://kb.commonhealth.com.tw/library/610.html"
+        },
+        {
+            "name": "主動脈腸道瘻管",
+            "url": "https://kb.commonhealth.com.tw/library/611.html"
+        },
+        {
+            "name": "功能不良性子宮出血",
+            "url": "https://kb.commonhealth.com.tw/library/612.html"
+        },
+        {
+            "name": "生殖器念珠菌感染",
+            "url": "https://kb.commonhealth.com.tw/library/613.html"
+        },
+        {
+            "name": "皮下血管畸形",
+            "url": "https://kb.commonhealth.com.tw/library/614.html"
+        },
+        {
+            "name": "硬皮症",
+            "url": "https://kb.commonhealth.com.tw/library/615.html"
+        },
+        {
+            "name": "萎縮性陰道炎",
+            "url": "https://kb.commonhealth.com.tw/library/616.html"
+        },
+        {
+            "name": "早發性心房收縮",
+            "url": "https://kb.commonhealth.com.tw/library/617.html"
+        },
+        {
+            "name": "妊娠高血壓",
+            "url": "https://kb.commonhealth.com.tw/library/618.html"
+        },
+        {
+            "name": "血管炎",
+            "url": "https://kb.commonhealth.com.tw/library/619.html"
+        },
+        {
+            "name": "慢性骨盆疼痛症候群",
+            "url": "https://kb.commonhealth.com.tw/library/620.html"
+        },
+        {
+            "name": "頭癬",
+            "url": "https://kb.commonhealth.com.tw/library/621.html"
+        },
+        {
+            "name": "糙皮病",
+            "url": "https://kb.commonhealth.com.tw/library/622.html"
+        },
+        {
+            "name": "藏毛竇",
+            "url": "https://kb.commonhealth.com.tw/library/623.html"
+        },
+        {
+            "name": "類天皰瘡",
+            "url": "https://kb.commonhealth.com.tw/library/624.html"
+        },
+        {
+            "name": "子宮內膜萎縮",
+            "url": "https://kb.commonhealth.com.tw/library/625.html"
+        },
+        {
+            "name": "不明熱",
+            "url": "https://kb.commonhealth.com.tw/library/626.html"
+        },
+        {
+            "name": "化學性皮膚脫色",
+            "url": "https://kb.commonhealth.com.tw/library/627.html"
+        },
+        {
+            "name": "日光性皮膚炎",
+            "url": "https://kb.commonhealth.com.tw/library/628.html"
+        },
+        {
+            "name": "毛孔角化症",
+            "url": "https://kb.commonhealth.com.tw/library/629.html"
+        },
+        {
+            "name": "毛孔性紅糠疹",
+            "url": "https://kb.commonhealth.com.tw/library/630.html"
+        },
+        {
+            "name": "外陰硬化性苔癬",
+            "url": "https://kb.commonhealth.com.tw/library/631.html"
+        },
+        {
+            "name": "甲下血腫",
+            "url": "https://kb.commonhealth.com.tw/library/632.html"
+        },
+        {
+            "name": "甲狀腺機能低下",
+            "url": "https://kb.commonhealth.com.tw/library/633.html"
+        },
+        {
+            "name": "白斑症",
+            "url": "https://kb.commonhealth.com.tw/library/634.html"
+        },
+        {
+            "name": "皮膚扁平苔癬症",
+            "url": "https://kb.commonhealth.com.tw/library/635.html"
+        },
+        {
+            "name": "多發性皮脂腺囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/636.html"
+        },
+        {
+            "name": "耳硬化症",
+            "url": "https://kb.commonhealth.com.tw/library/637.html"
+        },
+        {
+            "name": "血管性水腫",
+            "url": "https://kb.commonhealth.com.tw/library/638.html"
+        },
+        {
+            "name": "良性皮脂腺增生",
+            "url": "https://kb.commonhealth.com.tw/library/639.html"
+        },
+        {
+            "name": "足蹠蠹蝕症",
+            "url": "https://kb.commonhealth.com.tw/library/640.html"
+        },
+        {
+            "name": "乳房脂肪組織壞死",
+            "url": "https://kb.commonhealth.com.tw/library/641.html"
+        },
+        {
+            "name": "乳房纖維腺瘤",
+            "url": "https://kb.commonhealth.com.tw/library/642.html"
+        },
+        {
+            "name": "股癬",
+            "url": "https://kb.commonhealth.com.tw/library/643.html"
+        },
+        {
+            "name": "紅癬",
+            "url": "https://kb.commonhealth.com.tw/library/644.html"
+        },
+        {
+            "name": "陰道過度摩擦受傷",
+            "url": "https://kb.commonhealth.com.tw/library/645.html"
+        },
+        {
+            "name": "尋常性魚鱗癬",
+            "url": "https://kb.commonhealth.com.tw/library/646.html"
+        },
+        {
+            "name": "傳染性紅斑",
+            "url": "https://kb.commonhealth.com.tw/library/647.html"
+        },
+        {
+            "name": "對磨疹",
+            "url": "https://kb.commonhealth.com.tw/library/648.html"
+        },
+        {
+            "name": "陰道脫垂",
+            "url": "https://kb.commonhealth.com.tw/library/649.html"
+        },
+        {
+            "name": "慢性疲勞症候群",
+            "url": "https://kb.commonhealth.com.tw/library/650.html"
+        },
+        {
+            "name": "耳咽管功能障礙",
+            "url": "https://kb.commonhealth.com.tw/library/651.html"
+        },
+        {
+            "name": "人工草皮趾",
+            "url": "https://kb.commonhealth.com.tw/library/652.html"
+        },
+        {
+            "name": "水泡性鼓膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/653.html"
+        },
+        {
+            "name": "外淋巴瘻管",
+            "url": "https://kb.commonhealth.com.tw/library/654.html"
+        },
+        {
+            "name": "甲狀腺舌管囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/655.html"
+        },
+        {
+            "name": "血管運動性鼻炎",
+            "url": "https://kb.commonhealth.com.tw/library/656.html"
+        },
+        {
+            "name": "耳廓血腫",
+            "url": "https://kb.commonhealth.com.tw/library/657.html"
+        },
+        {
+            "name": "耳廓軟骨膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/658.html"
+        },
+        {
+            "name": "耳黴菌病",
+            "url": "https://kb.commonhealth.com.tw/library/659.html"
+        },
+        {
+            "name": "肋軟骨炎",
+            "url": "https://kb.commonhealth.com.tw/library/660.html"
+        },
+        {
+            "name": "乳膠過敏",
+            "url": "https://kb.commonhealth.com.tw/library/661.html"
+        },
+        {
+            "name": "坐骨臀肌滑液囊炎",
+            "url": "https://kb.commonhealth.com.tw/library/662.html"
+        },
+        {
+            "name": "良性肌束顫動",
+            "url": "https://kb.commonhealth.com.tw/library/663.html"
+        },
+        {
+            "name": "貝克氏囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/664.html"
+        },
+        {
+            "name": "乳突炎",
+            "url": "https://kb.commonhealth.com.tw/library/665.html"
+        },
+        {
+            "name": "非癲癇性肌抽躍",
+            "url": "https://kb.commonhealth.com.tw/library/666.html"
+        },
+        {
+            "name": "呼吸道融合病毒感染",
+            "url": "https://kb.commonhealth.com.tw/library/667.html"
+        },
+        {
+            "name": "咖啡牛奶斑",
+            "url": "https://kb.commonhealth.com.tw/library/668.html"
+        },
+        {
+            "name": "肩峰下滑液囊炎",
+            "url": "https://kb.commonhealth.com.tw/library/669.html"
+        },
+        {
+            "name": "肩關節夾擠症候群",
+            "url": "https://kb.commonhealth.com.tw/library/670.html"
+        },
+        {
+            "name": "食道憩室",
+            "url": "https://kb.commonhealth.com.tw/library/671.html"
+        },
+        {
+            "name": "恐聲症",
+            "url": "https://kb.commonhealth.com.tw/library/678.html"
+        },
+        {
+            "name": "骨盆腔充血症候群",
+            "url": "https://kb.commonhealth.com.tw/library/679.html"
+        },
+        {
+            "name": "骨髓炎",
+            "url": "https://kb.commonhealth.com.tw/library/680.html"
+        },
+        {
+            "name": "副耳",
+            "url": "https://kb.commonhealth.com.tw/library/681.html"
+        },
+        {
+            "name": "敗血性關節炎",
+            "url": "https://kb.commonhealth.com.tw/library/682.html"
+        },
+        {
+            "name": "喉軟骨瘤",
+            "url": "https://kb.commonhealth.com.tw/library/683.html"
+        },
+        {
+            "name": "裂紋舌",
+            "url": "https://kb.commonhealth.com.tw/library/684.html"
+        },
+        {
+            "name": "會厭炎",
+            "url": "https://kb.commonhealth.com.tw/library/685.html"
+        },
+        {
+            "name": "滑雪人拇指",
+            "url": "https://kb.commonhealth.com.tw/library/686.html"
+        },
+        {
+            "name": "鼻腦白黴菌症",
+            "url": "https://kb.commonhealth.com.tw/library/687.html"
+        },
+        {
+            "name": "鼻淚管阻塞",
+            "url": "https://kb.commonhealth.com.tw/library/688.html"
+        },
+        {
+            "name": "腱鞘囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/689.html"
+        },
+        {
+            "name": "電解質失衡",
+            "url": "https://kb.commonhealth.com.tw/library/690.html"
+        },
+        {
+            "name": "鼻中膈穿孔",
+            "url": "https://kb.commonhealth.com.tw/library/691.html"
+        },
+        {
+            "name": "頸椎椎管狹窄",
+            "url": "https://kb.commonhealth.com.tw/library/692.html"
+        },
+        {
+            "name": "蹠痛",
+            "url": "https://kb.commonhealth.com.tw/library/693.html"
+        },
+        {
+            "name": "藥物性鼻炎",
+            "url": "https://kb.commonhealth.com.tw/library/694.html"
+        },
+        {
+            "name": "聽小骨鏈異常",
+            "url": "https://kb.commonhealth.com.tw/library/695.html"
+        },
+        {
+            "name": "體質性水腫",
+            "url": "https://kb.commonhealth.com.tw/library/696.html"
+        },
+        {
+            "name": "皮肌炎",
+            "url": "https://kb.commonhealth.com.tw/library/697.html"
+        },
+        {
+            "name": "副舟狀骨症候群",
+            "url": "https://kb.commonhealth.com.tw/library/698.html"
+        },
+        {
+            "name": "發展性髖臼發育不全",
+            "url": "https://kb.commonhealth.com.tw/library/699.html"
+        },
+        {
+            "name": "腓腸肌痙攣",
+            "url": "https://kb.commonhealth.com.tw/library/700.html"
+        },
+        {
+            "name": "腓腸肌撕裂",
+            "url": "https://kb.commonhealth.com.tw/library/701.html"
+        },
+        {
+            "name": "反應性關節炎",
+            "url": "https://kb.commonhealth.com.tw/library/702.html"
+        },
+        {
+            "name": "跗骨隧道症候群",
+            "url": "https://kb.commonhealth.com.tw/library/703.html"
+        },
+        {
+            "name": "單純性骨囊腫",
+            "url": "https://kb.commonhealth.com.tw/library/704.html"
+        },
+        {
+            "name": "提肛肌痙攣症候群",
+            "url": "https://kb.commonhealth.com.tw/library/705.html"
+        },
+        {
+            "name": "多發性骨髓瘤",
+            "url": "https://kb.commonhealth.com.tw/library/706.html"
+        },
+        {
+            "name": "肋間肌痙攣",
+            "url": "https://kb.commonhealth.com.tw/library/707.html"
+        },
+        {
+            "name": "梨狀肌症候群",
+            "url": "https://kb.commonhealth.com.tw/library/708.html"
+        },
+        {
+            "name": "股骨頭近端生長板滑脫症",
+            "url": "https://kb.commonhealth.com.tw/library/709.html"
+        },
+        {
+            "name": "股骨頭缺血性壞死",
+            "url": "https://kb.commonhealth.com.tw/library/710.html"
+        },
+        {
+            "name": "滑膜軟骨瘤",
+            "url": "https://kb.commonhealth.com.tw/library/711.html"
+        },
+        {
+            "name": "空凹足",
+            "url": "https://kb.commonhealth.com.tw/library/712.html"
+        },
+        {
+            "name": "肌張力不全症",
+            "url": "https://kb.commonhealth.com.tw/library/713.html"
+        },
+        {
+            "name": "肌張力低下",
+            "url": "https://kb.commonhealth.com.tw/library/714.html"
+        },
+        {
+            "name": "肌肉強直症",
+            "url": "https://kb.commonhealth.com.tw/library/715.html"
+        },
+        {
+            "name": "急性下背痙攣（閃到腰）",
+            "url": "https://kb.commonhealth.com.tw/library/716.html"
+        },
+        {
+            "name": "痙攣性斜頸",
+            "url": "https://kb.commonhealth.com.tw/library/717.html"
+        },
+        {
+            "name": "足底纖維瘤",
+            "url": "https://kb.commonhealth.com.tw/library/718.html"
+        },
+        {
+            "name": "足跟脂肪墊損傷",
+            "url": "https://kb.commonhealth.com.tw/library/719.html"
+        },
+        {
+            "name": "斜頸症",
+            "url": "https://kb.commonhealth.com.tw/library/720.html"
+        },
+        {
+            "name": "胸廓出口症候群",
+            "url": "https://kb.commonhealth.com.tw/library/721.html"
+        },
+        {
+            "name": "上顎低生症",
+            "url": "https://kb.commonhealth.com.tw/library/722.html"
+        },
+        {
+            "name": "肢端肥大症",
+            "url": "https://kb.commonhealth.com.tw/library/723.html"
+        },
+        {
+            "name": "肘隧道症候群",
+            "url": "https://kb.commonhealth.com.tw/library/724.html"
+        },
+        {
+            "name": "陣發性運動障礙",
+            "url": "https://kb.commonhealth.com.tw/library/725.html"
+        },
+        {
+            "name": "掌腱膜攣縮症候群",
+            "url": "https://kb.commonhealth.com.tw/library/726.html"
+        },
+        {
+            "name": "亞伯氏症候群",
+            "url": "https://kb.commonhealth.com.tw/library/727.html"
+        },
+        {
+            "name": "嚴重急性呼吸系統症候群（SARS）",
+            "url": "https://kb.commonhealth.com.tw/library/728.html"
+        },
+        {
+            "name": "變性血紅素血症",
+            "url": "https://kb.commonhealth.com.tw/library/729.html"
+        },
+        {
+            "name": "病毒性肝炎",
+            "url": "https://kb.commonhealth.com.tw/library/730.html"
+        },
+        {
+            "name": "龐貝氏症",
+            "url": "https://kb.commonhealth.com.tw/library/731.html"
+        },
+        {
+            "name": "默克森－羅森泰症候群",
+            "url": "https://kb.commonhealth.com.tw/library/732.html"
+        },
+        {
+            "name": "低血鈉",
+            "url": "https://kb.commonhealth.com.tw/library/733.html"
+        },
+        {
+            "name": "低血鈣",
+            "url": "https://kb.commonhealth.com.tw/library/734.html"
+        },
+        {
+            "name": "低血鉀",
+            "url": "https://kb.commonhealth.com.tw/library/735.html"
+        },
+        {
+            "name": "低血氧",
+            "url": "https://kb.commonhealth.com.tw/library/736.html"
+        },
+        {
+            "name": "骼腰肌症候群",
+            "url": "https://kb.commonhealth.com.tw/library/737.html"
+        },
+        {
+            "name": "古巴斯捷氏症候群",
+            "url": "https://kb.commonhealth.com.tw/library/738.html"
+        },
+        {
+            "name": "解離性骨軟骨炎",
+            "url": "https://kb.commonhealth.com.tw/library/739.html"
+        },
+        {
+            "name": "薦髂關節功能障礙",
+            "url": "https://kb.commonhealth.com.tw/library/740.html"
+        },
+        {
+            "name": "頸部揮鞭樣症候群",
+            "url": "https://kb.commonhealth.com.tw/library/741.html"
+        },
+        {
+            "name": "頸因性頭痛",
+            "url": "https://kb.commonhealth.com.tw/library/742.html"
+        },
+        {
+            "name": "膝關節缺血性壞死",
+            "url": "https://kb.commonhealth.com.tw/library/743.html"
+        },
+        {
+            "name": "支氣管擴張症",
+            "url": "https://kb.commonhealth.com.tw/library/744.html"
+        },
+        {
+            "name": "槌狀指",
+            "url": "https://kb.commonhealth.com.tw/library/745.html"
+        },
+        {
+            "name": "肉芽腫性多血管炎",
+            "url": "https://kb.commonhealth.com.tw/library/746.html"
+        },
+        {
+            "name": "自體免疫內耳疾病",
+            "url": "https://kb.commonhealth.com.tw/library/747.html"
+        },
+        {
+            "name": "巴瑞特氏食道症",
+            "url": "https://kb.commonhealth.com.tw/library/748.html"
+        },
+        {
+            "name": "支氣管炎",
+            "url": "https://kb.commonhealth.com.tw/library/749.html"
+        },
+        {
+            "name": "包皮垢",
+            "url": "https://kb.commonhealth.com.tw/library/750.html"
+        },
+        {
+            "name": "外因性過敏性肺泡炎",
+            "url": "https://kb.commonhealth.com.tw/library/751.html"
+        },
+        {
+            "name": "皮下氣腫",
+            "url": "https://kb.commonhealth.com.tw/library/752.html"
+        },
+        {
+            "name": "全身型膿疱性乾癬",
+            "url": "https://kb.commonhealth.com.tw/library/753.html"
+        },
+        {
+            "name": "先天性尿道下裂",
+            "url": "https://kb.commonhealth.com.tw/library/754.html"
+        },
+        {
+            "name": "曲狀桿菌症",
+            "url": "https://kb.commonhealth.com.tw/library/755.html"
+        },
+        {
+            "name": "血小板低下症",
+            "url": "https://kb.commonhealth.com.tw/library/756.html"
+        },
+        {
+            "name": "西尼羅病毒感染",
+            "url": "https://kb.commonhealth.com.tw/library/757.html"
+        },
+        {
+            "name": "吞氣症",
+            "url": "https://kb.commonhealth.com.tw/library/758.html"
+        },
+        {
+            "name": "吞嚥肌退化",
+            "url": "https://kb.commonhealth.com.tw/library/759.html"
+        },
+        {
+            "name": "尿崩症",
+            "url": "https://kb.commonhealth.com.tw/library/760.html"
+        },
+        {
+            "name": "抗磷脂抗體症候群",
+            "url": "https://kb.commonhealth.com.tw/library/761.html"
+        },
+        {
+            "name": "肛門搔癢症",
+            "url": "https://kb.commonhealth.com.tw/library/762.html"
+        },
+        {
+            "name": "肝腎症候群",
+            "url": "https://kb.commonhealth.com.tw/library/763.html"
+        },
+        {
+            "name": "肝腫大",
+            "url": "https://kb.commonhealth.com.tw/library/764.html"
+        },
+        {
+            "name": "肝臟外傷",
+            "url": "https://kb.commonhealth.com.tw/library/765.html"
+        },
+        {
+            "name": "直腸炎",
+            "url": "https://kb.commonhealth.com.tw/library/766.html"
+        },
+        {
+            "name": "肩盂唇損傷",
+            "url": "https://kb.commonhealth.com.tw/library/767.html"
+        },
+        {
+            "name": "阿米巴原蟲感染／阿米巴性痢疾",
+            "url": "https://kb.commonhealth.com.tw/library/768.html"
+        },
+        {
+            "name": "非乳糜瀉麩質敏感症",
+            "url": "https://kb.commonhealth.com.tw/library/769.html"
+        },
+        {
+            "name": "前庭乳突狀瘤病／假性菜花",
+            "url": "https://kb.commonhealth.com.tw/library/770.html"
+        },
+        {
+            "name": "幽門狹窄",
+            "url": "https://kb.commonhealth.com.tw/library/771.html"
+        },
+        {
+            "name": "急性呼吸窘迫症候群",
+            "url": "https://kb.commonhealth.com.tw/library/772.html"
+        },
+        {
+            "name": "胡蘿蔔素血症",
+            "url": "https://kb.commonhealth.com.tw/library/773.html"
+        },
+        {
+            "name": "風濕性多發性肌痛症",
+            "url": "https://kb.commonhealth.com.tw/library/774.html"
+        },
+        {
+            "name": "食道弛緩不全症",
+            "url": "https://kb.commonhealth.com.tw/library/775.html"
+        },
+        {
+            "name": "食道痙攣",
+            "url": "https://kb.commonhealth.com.tw/library/776.html"
+        },
+        {
+            "name": "真性紅血球增多症",
+            "url": "https://kb.commonhealth.com.tw/library/778.html"
+        },
+        {
+            "name": "酒精性肝炎",
+            "url": "https://kb.commonhealth.com.tw/library/779.html"
+        },
+        {
+            "name": "骨佩吉特氏症",
+            "url": "https://kb.commonhealth.com.tw/library/780.html"
+        },
+        {
+            "name": "髕骨股骨疼痛症候群",
+            "url": "https://kb.commonhealth.com.tw/library/781.html"
+        },
+        {
+            "name": "臂神經叢損傷",
+            "url": "https://kb.commonhealth.com.tw/library/782.html"
+        },
+        {
+            "name": "骨髓化生不良症候群",
+            "url": "https://kb.commonhealth.com.tw/library/783.html"
+        },
+        {
+            "name": "高血鉀",
+            "url": "https://kb.commonhealth.com.tw/library/784.html"
+        },
+        {
+            "name": "高血磷",
+            "url": "https://kb.commonhealth.com.tw/library/785.html"
+        },
+        {
+            "name": "高泌乳激素血症",
+            "url": "https://kb.commonhealth.com.tw/library/786.html"
+        },
+        {
+            "name": "乾癬性關節炎",
+            "url": "https://kb.commonhealth.com.tw/library/787.html"
+        },
+        {
+            "name": "假性痛風（焦磷酸鈣沉積症）",
+            "url": "https://kb.commonhealth.com.tw/library/788.html"
+        },
+        {
+            "name": "梯采氏症",
+            "url": "https://kb.commonhealth.com.tw/library/789.html"
+        },
+        {
+            "name": "軟性下疳",
+            "url": "https://kb.commonhealth.com.tw/library/790.html"
+        },
+        {
+            "name": "陰莖珍珠狀丘疹",
+            "url": "https://kb.commonhealth.com.tw/library/791.html"
+        },
+        {
+            "name": "創傷性關節炎",
+            "url": "https://kb.commonhealth.com.tw/library/792.html"
+        },
+        {
+            "name": "惡性貧血",
+            "url": "https://kb.commonhealth.com.tw/library/793.html"
+        },
+        {
+            "name": "紫斑症",
+            "url": "https://kb.commonhealth.com.tw/library/794.html"
+        },
+        {
+            "name": "跗骨竇症候群",
+            "url": "https://kb.commonhealth.com.tw/library/795.html"
+        },
+        {
+            "name": "類肉瘤症",
+            "url": "https://kb.commonhealth.com.tw/library/796.html"
+        },
+        {
+            "name": "纖維肌痛症候群",
+            "url": "https://kb.commonhealth.com.tw/library/797.html"
+        },
+        {
+            "name": "馬尾症候群",
+            "url": "https://kb.commonhealth.com.tw/library/798.html"
+        },
+        {
+            "name": "莫頓氏神經瘤",
+            "url": "https://kb.commonhealth.com.tw/library/799.html"
+        },
+        {
+            "name": "膽囊瘜肉",
+            "url": "https://kb.commonhealth.com.tw/library/800.html"
+        },
+        {
+            "name": "膽囊炎",
+            "url": "https://kb.commonhealth.com.tw/library/801.html"
+        },
+        {
+            "name": "毒性巨腸症",
+            "url": "https://kb.commonhealth.com.tw/library/802.html"
+        },
+        {
+            "name": "多發性肌炎",
+            "url": "https://kb.commonhealth.com.tw/library/803.html"
+        },
+        {
+            "name": "尿道狹窄",
+            "url": "https://kb.commonhealth.com.tw/library/804.html"
+        },
+        {
+            "name": "良性皮膚纖維瘤",
+            "url": "https://kb.commonhealth.com.tw/library/805.html"
+        },
+        {
+            "name": "良性原發性顫抖症",
+            "url": "https://kb.commonhealth.com.tw/library/806.html"
+        },
+        {
+            "name": "良性運動後頭痛",
+            "url": "https://kb.commonhealth.com.tw/library/807.html"
+        },
+        {
+            "name": "乾性皮膚",
+            "url": "https://kb.commonhealth.com.tw/library/808.html"
+        },
+        {
+            "name": "乾燥性鼻炎",
+            "url": "https://kb.commonhealth.com.tw/library/809.html"
+        },
+        {
+            "name": "肛門膿瘍",
+            "url": "https://kb.commonhealth.com.tw/library/810.html"
+        },
+        {
+            "name": "鼓室硬化症",
+            "url": "https://kb.commonhealth.com.tw/library/811.html"
+        },
+        {
+            "name": "過量攝取咖啡因",
+            "url": "https://kb.commonhealth.com.tw/library/812.html"
+        },
+        {
+            "name": "咖啡因戒斷症狀",
+            "url": "https://kb.commonhealth.com.tw/library/813.html"
+        },
+        {
+            "name": "頷麻症候群",
+            "url": "https://kb.commonhealth.com.tw/library/814.html"
+        },
+        {
+            "name": "進行性上眼神經核麻痺症",
+            "url": "https://kb.commonhealth.com.tw/library/815.html"
+        },
+        {
+            "name": "脛骨結節軟骨炎",
+            "url": "https://kb.commonhealth.com.tw/library/816.html"
+        },
+        {
+            "name": "缺血性腸炎",
+            "url": "https://kb.commonhealth.com.tw/library/817.html"
+        },
+        {
+            "name": "上鞏膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/818.html"
+        },
+        {
+            "name": "子宮內膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/819.html"
+        },
+        {
+            "name": "可逆性腦血管收縮症候群",
+            "url": "https://kb.commonhealth.com.tw/library/820.html"
+        },
+        {
+            "name": "中心性漿液性脈絡膜視網膜病變",
+            "url": "https://kb.commonhealth.com.tw/library/821.html"
+        },
+        {
+            "name": "光照性角膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/822.html"
+        },
+        {
+            "name": "全葡萄膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/823.html"
+        },
+        {
+            "name": "舌咽神經痛",
+            "url": "https://kb.commonhealth.com.tw/library/824.html"
+        },
+        {
+            "name": "肝靜脈阻塞症候群",
+            "url": "https://kb.commonhealth.com.tw/library/825.html"
+        },
+        {
+            "name": "角膜上皮破損",
+            "url": "https://kb.commonhealth.com.tw/library/826.html"
+        },
+        {
+            "name": "角膜水腫",
+            "url": "https://kb.commonhealth.com.tw/library/827.html"
+        },
+        {
+            "name": "冠狀齒突症候群",
+            "url": "https://kb.commonhealth.com.tw/library/828.html"
+        },
+        {
+            "name": "前葡萄膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/829.html"
+        },
+        {
+            "name": "原發性劇渴症",
+            "url": "https://kb.commonhealth.com.tw/library/830.html"
+        },
+        {
+            "name": "格林巴利症候群",
+            "url": "https://kb.commonhealth.com.tw/library/831.html"
+        },
+        {
+            "name": "疱疹性角膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/832.html"
+        },
+        {
+            "name": "脊髓空洞症",
+            "url": "https://kb.commonhealth.com.tw/library/833.html"
+        },
+        {
+            "name": "弓漿蟲感染",
+            "url": "https://kb.commonhealth.com.tw/library/834.html"
+        },
+        {
+            "name": "中毒性休克症候群",
+            "url": "https://kb.commonhealth.com.tw/library/835.html"
+        },
+        {
+            "name": "代償失調性隱斜視",
+            "url": "https://kb.commonhealth.com.tw/library/836.html"
+        },
+        {
+            "name": "生理性眼球震顫",
+            "url": "https://kb.commonhealth.com.tw/library/837.html"
+        },
+        {
+            "name": "生理性瞳孔不等大",
+            "url": "https://kb.commonhealth.com.tw/library/838.html"
+        },
+        {
+            "name": "白喉",
+            "url": "https://kb.commonhealth.com.tw/library/839.html"
+        },
+        {
+            "name": "舌炎",
+            "url": "https://kb.commonhealth.com.tw/library/840.html"
+        },
+        {
+            "name": "困難腸梭菌感染",
+            "url": "https://kb.commonhealth.com.tw/library/841.html"
+        },
+        {
+            "name": "抗生素副作用",
+            "url": "https://kb.commonhealth.com.tw/library/842.html"
+        },
+        {
+            "name": "兔熱病",
+            "url": "https://kb.commonhealth.com.tw/library/843.html"
+        },
+        {
+            "name": "退縮性睪丸",
+            "url": "https://kb.commonhealth.com.tw/library/844.html"
+        },
+        {
+            "name": "屈公病",
+            "url": "https://kb.commonhealth.com.tw/library/845.html"
+        },
+        {
+            "name": "股動脈血管瘤",
+            "url": "https://kb.commonhealth.com.tw/library/846.html"
+        },
+        {
+            "name": "肩胛上神經壓迫",
+            "url": "https://kb.commonhealth.com.tw/library/847.html"
+        },
+        {
+            "name": "神經性排尿障礙",
+            "url": "https://kb.commonhealth.com.tw/library/848.html"
+        },
+        {
+            "name": "神經循環無力症",
+            "url": "https://kb.commonhealth.com.tw/library/849.html"
+        },
+        {
+            "name": "梨形鞭毛蟲症",
+            "url": "https://kb.commonhealth.com.tw/library/850.html"
+        },
+        {
+            "name": "腓神經壓迫或損傷",
+            "url": "https://kb.commonhealth.com.tw/library/851.html"
+        },
+        {
+            "name": "視神經炎",
+            "url": "https://kb.commonhealth.com.tw/library/852.html"
+        },
+        {
+            "name": "週期性麻痹",
+            "url": "https://kb.commonhealth.com.tw/library/853.html"
+        },
+        {
+            "name": "黃斑瘤",
+            "url": "https://kb.commonhealth.com.tw/library/854.html"
+        },
+        {
+            "name": "愛迪氏強直性瞳孔",
+            "url": "https://kb.commonhealth.com.tw/library/855.html"
+        },
+        {
+            "name": "滑車神經麻痺",
+            "url": "https://kb.commonhealth.com.tw/library/856.html"
+        },
+        {
+            "name": "酒精性神經病變",
+            "url": "https://kb.commonhealth.com.tw/library/865.html"
+        },
+        {
+            "name": "假性血尿",
+            "url": "https://kb.commonhealth.com.tw/library/866.html"
+        },
+        {
+            "name": "假性腦瘤",
+            "url": "https://kb.commonhealth.com.tw/library/867.html"
+        },
+        {
+            "name": "眼瞼鬆弛症候群",
+            "url": "https://kb.commonhealth.com.tw/library/868.html"
+        },
+        {
+            "name": "眼瞼炎",
+            "url": "https://kb.commonhealth.com.tw/library/869.html"
+        },
+        {
+            "name": "單純性抽搐症",
+            "url": "https://kb.commonhealth.com.tw/library/870.html"
+        },
+        {
+            "name": "潰瘍性大腸炎",
+            "url": "https://kb.commonhealth.com.tw/library/871.html"
+        },
+        {
+            "name": "膀胱頸阻塞",
+            "url": "https://kb.commonhealth.com.tw/library/872.html"
+        },
+        {
+            "name": "流行性腦脊髓膜炎",
+            "url": "https://kb.commonhealth.com.tw/library/873.html"
+        },
+        {
+            "name": "腹水",
+            "url": "https://kb.commonhealth.com.tw/library/874.html"
+        },
+        {
+            "name": "慮病症",
+            "url": "https://kb.commonhealth.com.tw/library/875.html"
+        },
+        {
+            "name": "摳皮症",
+            "url": "https://kb.commonhealth.com.tw/library/876.html"
+        },
+        {
+            "name": "隱球菌症",
+            "url": "https://kb.commonhealth.com.tw/library/877.html"
+        },
+        {
+            "name": "膽管炎",
+            "url": "https://kb.commonhealth.com.tw/library/878.html"
+        },
+        {
+            "name": "顱內低壓症候群",
+            "url": "https://kb.commonhealth.com.tw/library/879.html"
+        },
+        {
+            "name": "關節腔游離體症",
+            "url": "https://kb.commonhealth.com.tw/library/880.html"
+        },
+        {
+            "name": "瞼裂斑",
+            "url": "https://kb.commonhealth.com.tw/library/881.html"
+        },
+        {
+            "name": "遺傳性眼周色素累積",
+            "url": "https://kb.commonhealth.com.tw/library/882.html"
+        },
+        {
+            "name": "脾臟腫大",
+            "url": "https://kb.commonhealth.com.tw/library/883.html"
+        },
+        {
+            "name": "萊姆病",
+            "url": "https://kb.commonhealth.com.tw/library/884.html"
+        },
+        {
+            "name": "淋巴絲蟲病",
+            "url": "https://kb.commonhealth.com.tw/library/886.html"
+        },
+        {
+            "name": "感染性單核球增多症",
+            "url": "https://kb.commonhealth.com.tw/library/887.html"
+        },
+        {
+            "name": "結核病",
+            "url": "https://kb.commonhealth.com.tw/library/888.html"
+        },
+        {
+            "name": "球黴菌溪谷熱",
+            "url": "https://kb.commonhealth.com.tw/library/889.html"
+        },
+        {
+            "name": "膝關節副韌帶損傷",
+            "url": "https://kb.commonhealth.com.tw/library/890.html"
+        },
+        {
+            "name": "暫時性黑矇",
+            "url": "https://kb.commonhealth.com.tw/library/891.html"
+        },
+        {
+            "name": "粟粒疹",
+            "url": "https://kb.commonhealth.com.tw/library/892.html"
+        },
+        {
+            "name": "腸繫膜淋巴結炎",
+            "url": "https://kb.commonhealth.com.tw/library/893.html"
+        },
+        {
+            "name": "視神經乳頭水腫",
+            "url": "https://kb.commonhealth.com.tw/library/894.html"
+        }
+    ]
+}
