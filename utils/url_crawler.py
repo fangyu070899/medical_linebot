@@ -8,6 +8,7 @@ option = webdriver.ChromeOptions()
 option.add_experimental_option('excludeSwitches', ['enable-logging'])
 option.add_argument('--ignore-certificate-errors')
 option.add_argument('--ignore-ssl-errors')
+option.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
 
 # 爬所有文章網址對應的標題 寫在url.json
 
@@ -143,7 +144,7 @@ def search_discription(title,url):
 
 def search_paper(title,select_category,url):
     num=0
-    driver = webdriver.Chrome(options=option)
+    driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),options=option)
     driver.get(url)
  
     item=[]
