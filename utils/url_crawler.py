@@ -5,9 +5,9 @@ from linebot.models import TextSendMessage,ImageSendMessage,QuickReplyButton,Mes
 
 
 option = webdriver.ChromeOptions()
-option.add_experimental_option('excludeSwitches', ['enable-logging'])
-option.add_argument('--ignore-certificate-errors')
-option.add_argument('--ignore-ssl-errors')
+# option.add_experimental_option('excludeSwitches', ['enable-logging'])
+# option.add_argument('--ignore-certificate-errors')
+# option.add_argument('--ignore-ssl-errors')
 
 #for heroku
 option.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
