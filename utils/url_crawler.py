@@ -5,13 +5,13 @@ from linebot.models import TextSendMessage,ImageSendMessage,QuickReplyButton,Mes
 
 
 option = webdriver.ChromeOptions()
-# option.add_experimental_option('excludeSwitches', ['enable-logging'])
-# option.add_argument('--ignore-certificate-errors')
-# option.add_argument('--ignore-ssl-errors')
+option.add_experimental_option('excludeSwitches', ['enable-logging'])
+option.add_argument('--ignore-certificate-errors')
+option.add_argument('--ignore-ssl-errors')
 
 #for heroku
-option.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
-option.add_argument("--headless") #無頭模式
+# option.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+# option.add_argument("--headless") #無頭模式
 option.add_argument("--disable-dev-shm-usage")
 option.add_argument("--no-sandbox")
 
@@ -41,7 +41,8 @@ option.add_argument("--no-sandbox")
 def search_discription(title,url):
     message=[]
     num=0
-    driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),options=option)
+    driver = webdriver.Chrome(options=option)
+    # driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),options=option)
     driver.get(url)
     discription=driver.find_element(By.CLASS_NAME,'text-content')
     d=discription.find_element(By.TAG_NAME,'h2').text
@@ -149,7 +150,8 @@ def search_discription(title,url):
 
 def search_paper(title,select_category,url):
     num=0
-    driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),options=option)
+    driver = webdriver.Chrome(options=option)
+    # driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),options=option)
     driver.get(url)
  
     item=[]
@@ -272,7 +274,7 @@ def search_paper(title,select_category,url):
 
 
 if __name__ == "__main__":
-    # i=search_discription("B型肝炎","https://kb.commonhealth.com.tw/library/1.html")
-    i=search_paper("B型肝炎","就醫準備","https://kb.commonhealth.com.tw/library/1.html")
+    i=search_discription("B型肝炎","https://kb.commonhealth.com.tw/library/1.html")
+    # i=search_paper("B型肝炎","就醫準備","https://kb.commonhealth.com.tw/library/1.html")
     # print(i[0])
     # print(i[1])
