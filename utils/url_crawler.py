@@ -8,7 +8,12 @@ option = webdriver.ChromeOptions()
 option.add_experimental_option('excludeSwitches', ['enable-logging'])
 option.add_argument('--ignore-certificate-errors')
 option.add_argument('--ignore-ssl-errors')
+
+#for heroku
 option.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+option.add_argument("--headless") #無頭模式
+option.add_argument("--disable-dev-shm-usage")
+option.add_argument("--no-sandbox")
 
 # 爬所有文章網址對應的標題 寫在url.json
 
