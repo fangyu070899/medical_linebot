@@ -46,8 +46,8 @@ This is a line bot you can ask for medical knowledge, including diseases, sympto
 
 ### Greeting messages
 <div >
-    <image src="https://i.imgur.com/fiksM3E.jpg" width=210>
-    <image src="https://i.imgur.com/l06J1QY.jpg" width=210>
+    <image src="https://i.imgur.com/fiksM3E.jpg" width=300>
+    <image src="https://i.imgur.com/l06J1QY.jpg" width=300>
 <div/>
 
 ### rich menu & text input
