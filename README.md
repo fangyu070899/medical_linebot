@@ -45,13 +45,13 @@ This is a line bot you can ask for medical knowledge, including diseases, sympto
 ## Getting Started
 
 ### Greeting messages
-<div align="center">
+<div >
     <image src="https://i.imgur.com/fiksM3E.jpg" width=210>
     <image src="https://i.imgur.com/l06J1QY.jpg" width=210>
 <div/>
 
 ### rich menu & text input
-<div align="center">
+<div >
     <image src="https://i.imgur.com/qKzbZxR.jpg" width=210>
     <image src="https://i.imgur.com/ooOtw15.jpg" width=210>
 <div/>
@@ -86,7 +86,7 @@ This is a line bot you can ask for medical knowledge, including diseases, sympto
 
 ## Demo
 * 健康百科
-<div align="center">
+<div>
     <image src="https://i.imgur.com/iefbBXx.jpg" width=210>
     <image src="https://i.imgur.com/TieInfA.jpg" width=210>
     <image src="https://i.imgur.com/2aiV0Rk.jpg" width=210>
@@ -97,35 +97,35 @@ This is a line bot you can ask for medical knowledge, including diseases, sympto
     
 
 * 症狀百科
-<div align="center">
+<div>
     <image src="https://i.imgur.com/jDwosxk.jpg" width=210>
     <image src="https://i.imgur.com/xdS6aQ4.jpg" width=210>
     <image src="https://i.imgur.com/qKQVb0Y.jpg" width=210>
 <div/>       
 
 * 飲食百科
-<div align="center">
+<div>
     <image src="https://i.imgur.com/MLEEIMX.jpg" width=210>
     <image src="https://i.imgur.com/203Jttf.jpg" width=210>
     <image src="https://i.imgur.com/1xDL3pg.jpg" width=210>
 <div/>     
 
 * 運動百科
-<div align="center">
+<div>
     <image src="https://i.imgur.com/WUl1w2j.jpg" width=210>
     <image src="https://i.imgur.com/Z2iFhmx.jpg" width=210>
     <image src="https://i.imgur.com/59UxNn5.jpg" width=210>
 <div/>     
         
 * 營養百科
-<div align="center">
+<div>
     <image src="https://i.imgur.com/wwtkf26.jpg" width=210>
     <image src="https://i.imgur.com/iLEO5Nb.jpg" width=210>
     <image src="https://i.imgur.com/1L8NhwZ.jpg" width=210>
 <div/>    
         
 * 打字輸入
-<div align="center">
+<div>
     <image src="https://i.imgur.com/2MmxuLG.jpg" width=210>
     <image src="https://i.imgur.com/nYh7b6G.jpg" width=210>
 <div/>    
