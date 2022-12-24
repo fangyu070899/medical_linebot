@@ -1,9 +1,9 @@
 import os,json
-from datetime import datetime
 
-from flask import Flask, abort, request
+from flask import Flask, abort, request, send_file
 
-# https://github.com/line/line-bot-sdk-python
+from src.fsm import TocMachine
+
 from linebot import LineBotApi, WebhookHandler
 from linebot.exceptions import InvalidSignatureError
 from linebot.models import MessageEvent, TextMessage, TextSendMessage,FlexSendMessage, BubbleContainer, ImageComponent,ImageSendMessage,QuickReply,QuickReplyButton,MessageAction
@@ -14,8 +14,452 @@ from utils.url_crawler import search_discription,search_paper
 
 app = Flask(__name__)
 
-line_bot_api = LineBotApi(os.environ.get("CHANNEL_ACCESS_TOKEN"))
-handler = WebhookHandler(os.environ.get("CHANNEL_SECRET"))
+# line_bot_api = LineBotApi(os.environ.get("CHANNEL_ACCESS_TOKEN"))
+# handler = WebhookHandler(os.environ.get("CHANNEL_SECRET"))
+
+line_bot_api = LineBotApi("CHANNEL_ACCESS_TOKEN")
+handler = WebhookHandler("CHANNEL_SECRET")
+
+machine = TocMachine(
+    states=[
+        "user",
+        "searched_term",
+        "suggest_term",
+        "symptom_category",
+        "nutrition_category",
+        "diet_category",
+        "sport_category",
+        "disease_category",
+        "disease_category2",
+        "bone_disease",
+        "cranial_disease",
+        "ear_disease",
+        "eye_disease",
+        "gynecology_disease",
+        "kidney_disease",
+        "liver_disease",
+        "lung_disease",
+        "mind_disease",
+        "skin_disease",
+        "mouth_disease",
+        "heart_disease",
+        "stomach_disease",
+        "urinary_disease",
+        "male_symptom",
+        "female_symptom",
+        "elder_symptom",
+        "child_symptom",
+        ],
+    transitions=[
+        {
+            "trigger": "advance",
+            "source": "user",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "user",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "searched_term",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "suggest_term",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "user",
+            "dest": "disease_category",
+            "conditions": "is_going_to_disease_category",
+        },
+        {
+            "trigger": "advance",
+            "source": "user",
+            "dest": "symptom_category",
+            "conditions": "is_going_to_symptom_category",
+        },
+        {
+            "trigger": "advance",
+            "source": "user",
+            "dest": "diet_category",
+            "conditions": "is_going_to_diet_category",
+        },
+        {
+            "trigger": "advance",
+            "source": "user",
+            "dest": "sport_category",
+            "conditions": "is_going_to_sport_category",
+        },
+        {
+            "trigger": "advance",
+            "source": "user",
+            "dest": "nutrition_category",
+            "conditions": "is_going_to_nutrition_category",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category",
+            "dest": "disease_category2",
+            "conditions": "is_going_to_disease_category2",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "urinary_disease",
+            "conditions": "is_going_to_urinary_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "stomach_disease",
+            "conditions": "is_going_to_stomach_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "heart_disease",
+            "conditions": "is_going_to_heart_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "mouth_disease",
+            "conditions": "is_going_to_mouth_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "skin_disease",
+            "conditions": "is_going_to_skin_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "mind_disease",
+            "conditions": "is_going_to_mind_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "lung_disease",
+            "conditions": "is_going_to_lung_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "liver_disease",
+            "conditions": "is_going_to_liver_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "kidney_disease",
+            "conditions": "is_going_to_kidney_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "gynecology_disease",
+            "conditions": "is_going_to_gynecology_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "eye_disease",
+            "conditions": "is_going_to_eye_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "ear_disease",
+            "conditions": "is_going_to_ear_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "cranial_disease",
+            "conditions": "is_going_to_cranial_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "disease_category2",
+            "dest": "bone_disease",
+            "conditions": "is_going_to_bone_disease",
+        },
+        {
+            "trigger": "advance",
+            "source": "urinary_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "stomach_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "heart_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "mouth_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "skin_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "mind_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "lung_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "liver_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "kidney_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "gynecology_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "eye_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "ear_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "cranial_disease",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "urinary_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "stomach_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "heart_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "mouth_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "skin_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "mind_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "lung_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "liver_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "kidney_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "gynecology_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "eye_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "ear_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "cranial_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "bone_disease",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "symptom_category",
+            "dest": "male_symptom",
+            "conditions": "is_going_to_male_symptom",
+        },
+        {
+            "trigger": "advance",
+            "source": "symptom_category",
+            "dest": "female_symptom",
+            "conditions": "is_going_to_female_symptom",
+        },
+        {
+            "trigger": "advance",
+            "source": "symptom_category",
+            "dest": "elder_symptom",
+            "conditions": "is_going_to_elder_symptom",
+        },
+        {
+            "trigger": "advance",
+            "source": "symptom_category",
+            "dest": "child_symptom",
+            "conditions": "is_going_to_child_symptom",
+        },
+        {
+            "trigger": "advance",
+            "source": "male_symptom",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "female_symptom",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "elder_symptom",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "child_symptom",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "male_symptom",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "female_symptom",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "elder_symptom",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "child_symptom",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "nutrition_category",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "nutrition_category",
+            "dest": "suggest_term",
+            "conditions": "is_going_to_suggest_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "diet_category",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {
+            "trigger": "advance",
+            "source": "sport_category",
+            "dest": "searched_term",
+            "conditions": "is_going_to_searched_term",
+        },
+        {"trigger": "go_back", "source": ["searched_term", "suggest_term", "symptom_category", "nutrition_category", "diet_category", "sport_category", "disease_category"], "dest": "user"},
+    ],
+    initial="user",
+    auto_transitions=False,
+    show_conditions=True,
+)
+
 
 
 def reply_rich_menu(get_message,reply_token):
@@ -261,6 +705,11 @@ def callback():
 
         return "OK"
 
+
+@app.route("/show_fsm", methods=["GET"])
+def show_fsm():
+    machine.get_graph().draw("fsm.png", prog="dot", format="png")
+    return send_file("fsm.png", mimetype="image/png")
 
 @handler.add(MessageEvent, message=TextMessage)
 def handle_message(event):

@@ -10,12 +10,12 @@ option.add_argument('--ignore-certificate-errors')
 option.add_argument('--ignore-ssl-errors')
 
 #for heroku
-option.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
-option.add_argument("--headless") #無頭模式
-option.add_argument("--window-size=1920,1080")
-option.add_argument('--allow-running-insecure-content')
-option.add_argument("--disable-dev-shm-usage")
-option.add_argument("--no-sandbox")
+# option.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+# option.add_argument("--headless") #無頭模式
+# option.add_argument("--window-size=1920,1080")
+# option.add_argument('--allow-running-insecure-content')
+# option.add_argument("--disable-dev-shm-usage")
+# option.add_argument("--no-sandbox")
 
 user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.50 Safari/537.36'
 option.add_argument(f'user-agent={user_agent}')
@@ -46,8 +46,8 @@ option.add_argument(f'user-agent={user_agent}')
 def search_discription(title,url):
     message=[]
     num=0
-    # driver = webdriver.Chrome(options=option)
-    driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),options=option)
+    driver = webdriver.Chrome(options=option)
+    # driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),options=option)
     driver.get(url)
     discription=driver.find_element(By.CLASS_NAME,'text-content')
     d=discription.find_element(By.TAG_NAME,'h2').text
@@ -155,8 +155,8 @@ def search_discription(title,url):
 
 def search_paper(title,select_category,url):
     num=0
-    # driver = webdriver.Chrome(options=option)
-    driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),options=option)
+    driver = webdriver.Chrome(options=option)
+    # driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),options=option)
     driver.get(url)
  
     item=[]
