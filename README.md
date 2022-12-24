@@ -1,7 +1,5 @@
-<br />
-
 # medical linebot
-
+#### TOC Project 111-1
 
 <!-- TABLE OF CONTENTS -->
 
@@ -94,36 +92,35 @@ This is a line bot you can ask for medical knowledge, including diseases, sympto
     <image src="https://i.imgur.com/f3gd0Ua.jpg" width=300>
     <image src="https://i.imgur.com/nagHy5H.jpg" width=300>
 <div/>    
-    
-
+<br />
 * 症狀百科
 <div>
     <image src="https://i.imgur.com/jDwosxk.jpg" width=300>
     <image src="https://i.imgur.com/xdS6aQ4.jpg" width=300>
     <image src="https://i.imgur.com/qKQVb0Y.jpg" width=300>
 <div/>       
-
+<br />
 * 飲食百科
 <div>
     <image src="https://i.imgur.com/MLEEIMX.jpg" width=300>
     <image src="https://i.imgur.com/203Jttf.jpg" width=300>
     <image src="https://i.imgur.com/1xDL3pg.jpg" width=300>
 <div/>     
-
+<br />
 * 運動百科
 <div>
     <image src="https://i.imgur.com/WUl1w2j.jpg" width=300>
     <image src="https://i.imgur.com/Z2iFhmx.jpg" width=300>
     <image src="https://i.imgur.com/59UxNn5.jpg" width=300>
-<div/>     
-        
+<div/>  
+<br />
 * 營養百科
 <div>
     <image src="https://i.imgur.com/wwtkf26.jpg" width=300>
     <image src="https://i.imgur.com/iLEO5Nb.jpg" width=300>
     <image src="https://i.imgur.com/1L8NhwZ.jpg" width=300>
 <div/>    
-        
+<br />
 * 打字輸入
 <div>
     <image src="https://i.imgur.com/2MmxuLG.jpg" width=300>
