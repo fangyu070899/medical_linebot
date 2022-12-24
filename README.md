@@ -137,7 +137,6 @@ This is a line bot you can ask for medical knowledge, including diseases, sympto
 
 * [康健知識庫](https://kb.commonhealth.com.tw/)
 * 疾管家
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
