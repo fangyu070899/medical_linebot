@@ -13,7 +13,6 @@
   <a href="#getting-started">Getting Started</a>
   <ul>
     <li><a href="#greeting-messages">Greeting messages</a></li>
-    <li><a href="#rich-menu-&-text-input">rich menu & text input</a></li>
   </ul>
 </li>
 <li><a href="#features">Features</a></li>
@@ -65,7 +64,7 @@ This is a line bot you can ask for medical knowledge, including diseases, sympto
 2. There are some quick reply buttons, so you don't have to type the word if what you want to search is included. Just click it.
 3. Quick reply in final state (below three) are different from the keywords. That is, how many options and what kind of options appear is decided by how much information is on the website.
 4. All pictures are super pretty. ( Of course, I made them. XD )
-<div align="center">
+<div >
     <image src="https://i.imgur.com/iefbBXx.jpg" width=210>
     <image src="https://i.imgur.com/TieInfA.jpg" width=210>
     <image src="https://i.imgur.com/2aiV0Rk.jpg" width=210>
